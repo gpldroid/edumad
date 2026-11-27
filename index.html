@@ -79,13 +79,13 @@ const files=[
  {id:"ch13",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/13-data-economy-and-privacy.md"},
  {id:"ch14",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/14-algorithms-and-artificial-intelligence.md"},
  {id:"ch15",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/15-digital-platforms-always-connected-human.md"},
+ {id:"ch16",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/16-family-and-social-relations.md"},
+ {id:"ch17",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/17-body-health-and-time.md"},
+ {id:"ch18",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/18-education-knowledge-opportunities.md"},
  {id:"ch19",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/19-contemporary-slavery-global-economy.md"},
  {id:"ch20",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/20-different-experiences-across-countries.md"},
  {id:"ch21",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/21-dismantling-mechanisms-of-submission.md"},
- {id:"ch22",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/22-building-a-project-for-human-liberation.md"},
- {id:"ch16",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/16-family-and-social-relations.md"},
- {id:"ch17",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/17-body-health-and-time.md"},
- {id:"ch18",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/18-education-knowledge-opportunities.md"}
+ {id:"ch22",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/22-building-a-project-for-human-liberation.md"}
 ];
 const content=document.getElementById("content");
 async function loadBook(){
@@ -100,7 +100,7 @@ async function loadBook(){
    html+='<section id="'+file.id+'">'+marked.parse(md)+'</section><hr>';
   }catch(e){html+='<section id="'+file.id+'"><h2>تعذر تحميل '+file.id+'</h2><p>تحقق من الاتصال أو افتح ملف الفصل مباشرة من مستودع GitHub.</p></section>'}
  }
- html+='<h1 id="remaining">الخاتمة والمراجع</h1><p>تظل الخاتمة العامة والمراجع الموحدة والفهارس بحاجة إلى إعداد ومراجعة نهائية. كما يلزم تدقيق جميع المراجع الأولية ومطابقة العناوين المؤقتة بالفهرس الأصلي عند توفره.</p>';
+ try{const c=await fetch('https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/conclusion.md');if(!c.ok)throw new Error('HTTP '+c.status);html+='<section id="conclusion">'+marked.parse(await c.text())+'</section><hr>';}catch(e){html+='<section id="conclusion"><h1>الخاتمة العامة</h1><p>تعذر تحميل الخاتمة حالياً.</p></section>';} html+='<section id="references"><h1>المراجع والفهارس</h1><p>تُستكمل بعد التحقق من المراجع الواردة في الفصول وتوحيد أسلوب التوثيق، ثم إعداد فهرس الأعلام والمصطلحات والموضوعات. لا تعتمد قوائم المراجع الأولية الحالية بوصفها قائمة نهائية.</p></section>';
  content.innerHTML=html;
 }
 loadBook();
