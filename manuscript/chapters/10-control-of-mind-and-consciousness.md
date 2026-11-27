@@ -71,3 +71,5 @@
 - UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021.
 - UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. Adopted 23 November 2021.
 - ينبغي استكمال أرقام الصفحات والطبعات المستخدمة فعلياً عند إدراج اقتباسات مباشرة؛ لم تُدرج اقتباسات حرفية في هذا الفصل.
+
+- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
