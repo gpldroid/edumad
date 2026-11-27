@@ -27,7 +27,8 @@
 - project/PROGRESS.md: سجل التقدم والحالة الحالية.
 - CHANGELOG.md: سجل جميع التغييرات والإصدارات.
 - project/RELEASE_POLICY.md: سياسة الترقيم والإصدارات والاعتماد.
-- project/EDITORIAL_REVIEW_REPORT.md: نتائج التدقيق التحريري والملاحظات المفتوحة.
+- project/EDITORIAL_REVIEW_REPORT.md: نتائج التدقيق التحريري العام.
+- project/CHAPTER_REVIEW_01-05.md: المراجعة التفصيلية للفصول 1–5.
 
 ## منهجية التحرير والتوثيق
 1. الحفاظ على النصوص الأصلية المتاحة وعدم اختلاق نصوص مفقودة.
