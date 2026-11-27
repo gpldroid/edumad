@@ -64,3 +64,28 @@
 
 ## تنبيه حول عدد الصفحات
 400 صفحة هدف تنسيقي تقريبي وليس ادعاءً بأن المخطوط الحالي بلغ هذا الحجم. يتوقف العدد الفعلي على حجم الورق والخط والهوامش والتباعد والمادة النصية النهائية.
+
+
+## استكمال الفصول 4–15 و19–22 — 2026-11-27
+
+أُنشئت ملفات إعادة بناء تحريرية جديدة للفصول 4–15 و19–22، وأُدرجت في قارئ المخطوط `index.html` وفق ترتيب الفهرس. لا تمثل هذه الملفات استعادة حرفية للنصوص الأصلية. عناوين الفصلين 4 و6 وظيفية مؤقتة، كما أن عناوين بعض الأبواب والفصول تحتاج مطابقة النسخة الأصلية. الفصل 5 أُعيدت صياغته موسعاً وفق عنوانه ومحاوره المعروفة؛ وعند ظهور المسودة الجزئية السابقة يجب مقارنتها ودمج ما يلزم دون محو الأصل.
+
+### الملفات الجديدة
+- `manuscript/chapters/04-structural-transformations-of-economy.md`
+- `manuscript/chapters/05-debt-credit-financial-dependence.md`
+- `manuscript/chapters/06-consumption-poverty-and-economic-exclusion.md`
+- `manuscript/chapters/07-class-stratification-and-inequality.md`
+- `manuscript/chapters/08-power-domination-political-control.md`
+- `manuscript/chapters/09-law-institutions-protection-restraint.md`
+- `manuscript/chapters/10-control-of-mind-and-consciousness.md`
+- `manuscript/chapters/11-media-culture-public-opinion.md`
+- `manuscript/chapters/12-identity-alienation-social-conformity.md`
+- `manuscript/chapters/13-data-economy-and-privacy.md`
+- `manuscript/chapters/14-algorithms-and-artificial-intelligence.md`
+- `manuscript/chapters/15-digital-platforms-always-connected-human.md`
+- `manuscript/chapters/19-contemporary-slavery-global-economy.md`
+- `manuscript/chapters/20-different-experiences-across-countries.md`
+- `manuscript/chapters/21-dismantling-mechanisms-of-submission.md`
+- `manuscript/chapters/22-building-a-project-for-human-liberation.md`
+
+الفصول 16–18 بقيت كما هي ولم تُستبدل. لا يعني إدراج جميع الفصول في القارئ أن المخطوط أصبح نهائياً: ما زالت الخاتمة العامة والمراجع الموحدة والفهارس والمراجعة العلمية واللغوية والتوثيقية والإخراج الطباعي مطلوبة.
