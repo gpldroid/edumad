@@ -54,7 +54,7 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 </aside>
 <main>
 <div class="notice"><strong>حالة هذه النسخة: مسودة عمل قيد الاستكمال</strong>
-هذه الصفحة تعرض المقدمة المعاد بناؤها تحريرياً، إلى جانب الفصول 16 و17 و18 المحفوظة. المقدمة إعادة بناء جديدة وليست النص الأصلي المستعاد؛ أما الفصول 1–15 والفصول 19–22 والخاتمة فتظل قيد إعادة البناء والتأليف والتحرير. هذه نسخة عمل وليست إصداراً نهائياً.</div>
+تعرض هذه النسخة المقدمة المعاد بناؤها والفصلين 1 و2 المعاد تأليفهما، إلى جانب الفصول 16–18 المحفوظة. الفصل الأول يحمل عنواناً وظيفياً مؤقتاً. جميع النصوص الجديدة موسومة بوصفها إعادة بناء، وتظل المراجعة العلمية والتوثيقية الشاملة مطلوبة. هذه نسخة عمل وليست إصداراً نهائياً.</div>
 <div class="toolbar"><button onclick="window.print()">طباعة / حفظ PDF</button><button onclick="document.documentElement.classList.toggle('large')">تبديل وضع القراءة</button></div>
 <article class="paper" id="content"><div class="loading">جارٍ تحميل المخطوط المحفوظ…</div></article>
 </main>
@@ -63,6 +63,9 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
 const files=[
+ {id:"intro",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/introduction.md"},
+ {id:"ch1",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/01-historical-roots-of-slavery.md"},
+ {id:"ch2",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/02-philosophical-transformations-of-liberty.md"},
  {id:"ch16",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/16-family-and-social-relations.md"},
  {id:"ch17",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/17-body-health-and-time.md"},
  {id:"ch18",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/18-education-knowledge-opportunities.md"}
@@ -71,7 +74,7 @@ const content=document.getElementById("content");
 async function loadBook(){
  if(!window.marked){content.innerHTML='<p>تعذر تحميل محرك تنسيق النص. يرجى إعادة تحميل الصفحة.</p>';return}
  marked.setOptions({gfm:true,breaks:false});
- let html='<h1>المقدمة العامة والفصول المحفوظة</h1><p>المقدمة إعادة بناء تحريرية جديدة، والفصول 16–18 مسودات محفوظة قيد المراجعة.</p>';
+ let html='<h1>المقدمة العامة والفصول المتاحة</h1><p>المقدمة والفصلان 1 و2 إعادة بناء تحريرية جديدة؛ والفصول 16–18 مسودات محفوظة قيد المراجعة.</p>';
  for(const file of files){
   try{
    const response=await fetch(file.url);
@@ -80,7 +83,7 @@ async function loadBook(){
    html+='<section id="'+file.id+'">'+marked.parse(md)+'</section><hr>';
   }catch(e){html+='<section id="'+file.id+'"><h2>تعذر تحميل '+file.id+'</h2><p>تحقق من الاتصال أو افتح ملف الفصل مباشرة من مستودع GitHub.</p></section>'}
  }
- html+='<h1 id="remaining">الفصول التي لم تُستعد نصوصها بعد</h1><p>المقدمة والفصول 1–15 والفصول 19–22 والخاتمة العامة والمراجع الموحدة تحتاج إلى استعادة النصوص الأصلية أو استكمال التأليف والتحرير قبل إصدار نسخة كاملة.</p>';
+ html+='<h1 id="remaining">الفصول التي لم تُستعد نصوصها بعد</h1><p>المقدمة والفصول 3–15 والفصول 19–22 والخاتمة العامة والمراجع الموحدة تحتاج إلى استعادة النصوص الأصلية أو استكمال التأليف والتحرير قبل إصدار نسخة كاملة.</p>';
  content.innerHTML=html;
 }
 loadBook();
