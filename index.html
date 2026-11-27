@@ -54,7 +54,7 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 </aside>
 <main>
 <div class="notice"><strong>حالة هذه النسخة: مسودة عمل قيد الاستكمال</strong>
-هذه الصفحة تجمع النصوص الكاملة المتاحة حالياً في المستودع. الموجود حالياً نصا الفصلين 16 و17 فقط. بقية العناوين مثبتة وفق سجل الفهرس، لكن نصوصها غير متاحة هنا بعد؛ لذلك لا تعرض الصفحة فصولاً مختلقة ولا تدّعي اكتمال الكتاب أو مراجعته النهائية.</div>
+هذه الصفحة تجمع النصوص الكاملة المتاحة حالياً في المستودع. المتاح حالياً الفصول 16 و17 و18؛ أما المقدمة والفصول 1–15 والفصول 19–22 والخاتمة فتظل قيد الاستعادة والتأليف والتحرير. هذه نسخة عمل وليست إصداراً نهائياً.</div>
 <div class="toolbar"><button onclick="window.print()">طباعة / حفظ PDF</button><button onclick="document.documentElement.classList.toggle('large')">تبديل وضع القراءة</button></div>
 <article class="paper" id="content"><div class="loading">جارٍ تحميل المخطوط المحفوظ…</div></article>
 </main>
@@ -64,7 +64,8 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 <script>
 const files=[
  {id:"ch16",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/16-family-and-social-relations.md"},
- {id:"ch17",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/17-body-health-and-time.md"}
+ {id:"ch17",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/17-body-health-and-time.md"},
+ {id:"ch18",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/18-education-knowledge-opportunities.md"}
 ];
 const content=document.getElementById("content");
 async function loadBook(){
@@ -79,7 +80,7 @@ async function loadBook(){
    html+='<section id="'+file.id+'">'+marked.parse(md)+'</section><hr>';
   }catch(e){html+='<section id="'+file.id+'"><h2>تعذر تحميل '+file.id+'</h2><p>تحقق من الاتصال أو افتح ملف الفصل مباشرة من مستودع GitHub.</p></section>'}
  }
- html+='<h1 id="remaining">الفصول التي لم تُستعد نصوصها بعد</h1><p>المقدمة والفصول 1–15 والفصول 18–22 والخاتمة العامة والمراجع الموحدة تحتاج إلى استعادة النصوص الأصلية أو استكمال التأليف والتحرير قبل إصدار نسخة كاملة.</p>';
+ html+='<h1 id="remaining">الفصول التي لم تُستعد نصوصها بعد</h1><p>المقدمة والفصول 1–15 والفصول 19–22 والخاتمة العامة والمراجع الموحدة تحتاج إلى استعادة النصوص الأصلية أو استكمال التأليف والتحرير قبل إصدار نسخة كاملة.</p>';
  content.innerHTML=html;
 }
 loadBook();
