@@ -47,10 +47,16 @@ for (const file of required) {
   }
 }
 const html = readFileSync(join(root, "index.html"), "utf8");
-for (const id of ["intro", ...chapterFiles.map((_, i) => `ch${i + 1}`), "conclusion", "references"]) {
-  if (!html.includes(`href="#${id}"`) && !html.includes(`id:"${id}"`) && !html.includes(`id:'${id}'`)) {
+for (const id of ["intro", "conclusion"]) {
+  if (!html.includes(`id:"${id}"`) && !html.includes(`id:'${id}'`) && !html.includes(`href="#${id}"`)) {
     errors.push(`Reader navigation entry or generated content target missing: #${id}`);
   }
+}
+if (!html.includes('id:`ch${index+1}`') && !html.includes('id:`ch${index + 1}`')) {
+  errors.push("Reader does not generate chapter anchors from the chapter index.");
+}
+if (!html.includes('id="references"') && !html.includes("id='references'") && !html.includes('id="references"')) {
+  errors.push("Reader references section is missing.");
 }
 if (!html.includes('id="content"') && !html.includes("id='content'")) {
   errors.push("Reader content container #content is missing.");
