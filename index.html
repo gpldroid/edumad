@@ -39,7 +39,7 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 <a class="sub" href="#ch1">الفصل 1 — العنوان قيد المطابقة</a>
 <a class="sub" href="#ch2">الفصل 2 — التحولات الفلسفية لمفهوم الحرية</a>
 <a href="#part2">الباب الثاني: العبودية الاقتصادية والمالية</a>
-<a class="sub" href="#ch3">الفصل 3 — العنوان قيد الاستعادة</a>
+<a class="sub" href="#ch3">الفصل 3 — العمل والقيمة وعلاقات التبعية (عنوان مؤقت)</a>
 <a class="sub" href="#ch4">الفصل 4 — العنوان قيد الاستعادة</a>
 <a class="sub" href="#ch5">الفصل 5 — الديون والائتمان وصناعة التبعية المالية</a>
 <a class="sub" href="#ch6">الفصل 6 — العنوان قيد الاستعادة</a>
@@ -54,7 +54,7 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 </aside>
 <main>
 <div class="notice"><strong>حالة هذه النسخة: مسودة عمل قيد الاستكمال</strong>
-تعرض هذه النسخة المقدمة المعاد بناؤها والفصلين 1 و2 المعاد تأليفهما، إلى جانب الفصول 16–18 المحفوظة. الفصل الأول يحمل عنواناً وظيفياً مؤقتاً. جميع النصوص الجديدة موسومة بوصفها إعادة بناء، وتظل المراجعة العلمية والتوثيقية الشاملة مطلوبة. هذه نسخة عمل وليست إصداراً نهائياً.</div>
+تعرض هذه النسخة المقدمة والفصول 1–3 المعاد بناؤها، إلى جانب الفصول 16–18 المحفوظة. عناوين الفصلين الأول والثالث وظيفية مؤقتة بانتظار مطابقتها بالفهرس الأصلي. جميع النصوص الجديدة موسومة بوصفها إعادة بناء، وتظل المراجعة العلمية والتوثيقية الشاملة مطلوبة. هذه نسخة عمل وليست إصداراً نهائياً.</div>
 <div class="toolbar"><button onclick="window.print()">طباعة / حفظ PDF</button><button onclick="document.documentElement.classList.toggle('large')">تبديل وضع القراءة</button></div>
 <article class="paper" id="content"><div class="loading">جارٍ تحميل المخطوط المحفوظ…</div></article>
 </main>
@@ -66,6 +66,7 @@ const files=[
  {id:"intro",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/introduction.md"},
  {id:"ch1",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/01-historical-roots-of-slavery.md"},
  {id:"ch2",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/02-philosophical-transformations-of-liberty.md"},
+ {id:"ch3",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/03-work-value-economic-dependence.md"},
  {id:"ch16",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/16-family-and-social-relations.md"},
  {id:"ch17",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/17-body-health-and-time.md"},
  {id:"ch18",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/18-education-knowledge-opportunities.md"}
@@ -83,7 +84,7 @@ async function loadBook(){
    html+='<section id="'+file.id+'">'+marked.parse(md)+'</section><hr>';
   }catch(e){html+='<section id="'+file.id+'"><h2>تعذر تحميل '+file.id+'</h2><p>تحقق من الاتصال أو افتح ملف الفصل مباشرة من مستودع GitHub.</p></section>'}
  }
- html+='<h1 id="remaining">الفصول التي لم تُستعد نصوصها بعد</h1><p>المقدمة والفصول 3–15 والفصول 19–22 والخاتمة العامة والمراجع الموحدة تحتاج إلى استعادة النصوص الأصلية أو استكمال التأليف والتحرير قبل إصدار نسخة كاملة.</p>';
+ html+='<h1 id="remaining">الفصول التي لم تُستعد نصوصها بعد</h1><p>المقدمة والفصول 4–15 والفصول 19–22 والخاتمة العامة والمراجع الموحدة تحتاج إلى استعادة النصوص الأصلية أو استكمال التأليف والتحرير قبل إصدار نسخة كاملة.</p>';
  content.innerHTML=html;
 }
 loadBook();
