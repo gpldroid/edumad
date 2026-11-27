@@ -5,6 +5,7 @@
 ## [Unreleased]
 
 ### Added
+- إضافة `project/CHAPTER_REVIEW_06-22.md` لتوثيق فحص عمق الفصول 6–22 وملاحظات كل فصل.
 - إضافة `scripts/validate-manuscript.mjs` للتحقق البنيوي من المقدمة والفصول 1–22 والخاتمة وقارئ HTML.
 - إضافة تقرير تحقق شامل لحالة المخطوط والقارئ وسير النشر في `project/STATUS_AUDIT_2026-11-27.md`.
 - إضافة تقرير مراجعة تفصيلي للفصول 1–5 في `project/CHAPTER_REVIEW_01-05.md`.
