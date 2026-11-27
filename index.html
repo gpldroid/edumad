@@ -54,7 +54,7 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 </aside>
 <main>
 <div class="notice"><strong>حالة هذه النسخة: مسودة عمل قيد الاستكمال</strong>
-تعرض هذه النسخة المقدمة والفصول 1–3 المعاد بناؤها، إلى جانب الفصول 16–18 المحفوظة. عناوين الفصلين الأول والثالث وظيفية مؤقتة بانتظار مطابقتها بالفهرس الأصلي. جميع النصوص الجديدة موسومة بوصفها إعادة بناء، وتظل المراجعة العلمية والتوثيقية الشاملة مطلوبة. هذه نسخة عمل وليست إصداراً نهائياً.</div>
+تعرض هذه النسخة المقدمة والفصول 1–15 و19–22 المعاد بناؤها، إلى جانب الفصول 16–18 المحفوظة. بعض العناوين وظيفية مؤقتة بانتظار مطابقتها بالفهرس الأصلي. النصوص المعاد بناؤها ليست نصوصاً أصلية مستعادة، وتظل المراجعة العلمية واللغوية والتوثيقية الشاملة مطلوبة. هذه نسخة عمل وليست إصداراً نهائياً.</div>
 <div class="toolbar"><button onclick="window.print()">طباعة / حفظ PDF</button><button onclick="document.documentElement.classList.toggle('large')">تبديل وضع القراءة</button></div>
 <article class="paper" id="content"><div class="loading">جارٍ تحميل المخطوط المحفوظ…</div></article>
 </main>
@@ -67,6 +67,22 @@ const files=[
  {id:"ch1",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/01-historical-roots-of-slavery.md"},
  {id:"ch2",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/02-philosophical-transformations-of-liberty.md"},
  {id:"ch3",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/03-work-value-economic-dependence.md"},
+ {id:"ch4",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/04-structural-transformations-of-economy.md"},
+ {id:"ch5",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/05-debt-credit-financial-dependence.md"},
+ {id:"ch6",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/06-consumption-poverty-and-economic-exclusion.md"},
+ {id:"ch7",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/07-class-stratification-and-inequality.md"},
+ {id:"ch8",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/08-power-domination-political-control.md"},
+ {id:"ch9",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/09-law-institutions-protection-restraint.md"},
+ {id:"ch10",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/10-control-of-mind-and-consciousness.md"},
+ {id:"ch11",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/11-media-culture-public-opinion.md"},
+ {id:"ch12",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/12-identity-alienation-social-conformity.md"},
+ {id:"ch13",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/13-data-economy-and-privacy.md"},
+ {id:"ch14",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/14-algorithms-and-artificial-intelligence.md"},
+ {id:"ch15",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/15-digital-platforms-always-connected-human.md"},
+ {id:"ch19",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/19-contemporary-slavery-global-economy.md"},
+ {id:"ch20",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/20-different-experiences-across-countries.md"},
+ {id:"ch21",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/21-dismantling-mechanisms-of-submission.md"},
+ {id:"ch22",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/22-building-a-project-for-human-liberation.md"},
  {id:"ch16",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/16-family-and-social-relations.md"},
  {id:"ch17",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/17-body-health-and-time.md"},
  {id:"ch18",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/18-education-knowledge-opportunities.md"}
@@ -75,7 +91,7 @@ const content=document.getElementById("content");
 async function loadBook(){
  if(!window.marked){content.innerHTML='<p>تعذر تحميل محرك تنسيق النص. يرجى إعادة تحميل الصفحة.</p>';return}
  marked.setOptions({gfm:true,breaks:false});
- let html='<h1>المقدمة العامة والفصول المتاحة</h1><p>المقدمة والفصلان 1 و2 إعادة بناء تحريرية جديدة؛ والفصول 16–18 مسودات محفوظة قيد المراجعة.</p>';
+ let html='<h1>المقدمة العامة والفصول المتاحة</h1><p>المقدمة والفصول 1–15 و19–22 إعادة بناء تحريرية جديدة؛ والفصول 16–18 مسودات محفوظة قيد المراجعة. جميعها تحتاج مراجعة علمية ولغوية وتوثيقية قبل النشر النهائي.</p>';
  for(const file of files){
   try{
    const response=await fetch(file.url);
@@ -84,7 +100,7 @@ async function loadBook(){
    html+='<section id="'+file.id+'">'+marked.parse(md)+'</section><hr>';
   }catch(e){html+='<section id="'+file.id+'"><h2>تعذر تحميل '+file.id+'</h2><p>تحقق من الاتصال أو افتح ملف الفصل مباشرة من مستودع GitHub.</p></section>'}
  }
- html+='<h1 id="remaining">الفصول التي لم تُستعد نصوصها بعد</h1><p>المقدمة والفصول 4–15 والفصول 19–22 والخاتمة العامة والمراجع الموحدة تحتاج إلى استعادة النصوص الأصلية أو استكمال التأليف والتحرير قبل إصدار نسخة كاملة.</p>';
+ html+='<h1 id="remaining">الخاتمة والمراجع</h1><p>تظل الخاتمة العامة والمراجع الموحدة والفهارس بحاجة إلى إعداد ومراجعة نهائية. كما يلزم تدقيق جميع المراجع الأولية ومطابقة العناوين المؤقتة بالفهرس الأصلي عند توفره.</p>';
  content.innerHTML=html;
 }
 loadBook();
