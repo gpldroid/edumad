@@ -64,3 +64,6 @@
 - UNESCO. *Journalism, “Fake News” and Disinformation: Handbook for Journalism Education and Training*. 2018.
 - UNESCO. *The Chilling: Global Trends in Online Violence against Women Journalists*. 2021.
 - UNESCO. *Guidelines for the Governance of Digital Platforms*. 2023.
+
+- Ireton, Cherilyn, and Julie Posetti, eds. *Journalism, Fake News & Disinformation: Handbook for Journalism Education and Training*. UNESCO, 2018. ISBN 978-92-3-100281-6. https://www.unesco.org/en/articles/journalism-fake-news-disinformation
+- UNESCO. *Guidelines for the Governance of Digital Platforms*. 2023. https://www.unesco.org/en/internet-trust/guidelines
