@@ -62,46 +62,73 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 <footer>© عماد لمراني — جميع الحقوق محفوظة. لا يجوز إعادة النشر أو الاستغلال التجاري دون إذن المؤلف.</footer>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
+const chapters=[
+"01-historical-roots-of-slavery.md",
+"02-philosophical-transformations-of-liberty.md",
+"03-work-value-economic-dependence.md",
+"04-structural-transformations-of-economy.md",
+"05-debt-credit-financial-dependence.md",
+"06-consumption-poverty-and-economic-exclusion.md",
+"07-class-stratification-and-inequality.md",
+"08-power-domination-political-control.md",
+"09-law-institutions-protection-restraint.md",
+"10-control-of-mind-and-consciousness.md",
+"11-media-culture-public-opinion.md",
+"12-identity-alienation-social-conformity.md",
+"13-data-economy-and-privacy.md",
+"14-algorithms-and-artificial-intelligence.md",
+"15-digital-platforms-always-connected-human.md",
+"16-family-and-social-relations.md",
+"17-body-health-and-time.md",
+"18-education-knowledge-opportunities.md",
+"19-contemporary-slavery-global-economy.md",
+"20-different-experiences-across-countries.md",
+"21-dismantling-mechanisms-of-submission.md",
+"22-building-a-project-for-human-liberation.md"
+];
 const files=[
- {id:"intro",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/introduction.md"},
- {id:"ch1",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/01-historical-roots-of-slavery.md"},
- {id:"ch2",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/02-philosophical-transformations-of-liberty.md"},
- {id:"ch3",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/03-work-value-economic-dependence.md"},
- {id:"ch4",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/04-structural-transformations-of-economy.md"},
- {id:"ch5",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/05-debt-credit-financial-dependence.md"},
- {id:"ch6",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/06-consumption-poverty-and-economic-exclusion.md"},
- {id:"ch7",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/07-class-stratification-and-inequality.md"},
- {id:"ch8",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/08-power-domination-political-control.md"},
- {id:"ch9",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/09-law-institutions-protection-restraint.md"},
- {id:"ch10",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/10-control-of-mind-and-consciousness.md"},
- {id:"ch11",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/11-media-culture-public-opinion.md"},
- {id:"ch12",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/12-identity-alienation-social-conformity.md"},
- {id:"ch13",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/13-data-economy-and-privacy.md"},
- {id:"ch14",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/14-algorithms-and-artificial-intelligence.md"},
- {id:"ch15",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/15-digital-platforms-always-connected-human.md"},
- {id:"ch16",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/16-family-and-social-relations.md"},
- {id:"ch17",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/17-body-health-and-time.md"},
- {id:"ch18",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/18-education-knowledge-opportunities.md"},
- {id:"ch19",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/19-contemporary-slavery-global-economy.md"},
- {id:"ch20",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/20-different-experiences-across-countries.md"},
- {id:"ch21",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/21-dismantling-mechanisms-of-submission.md"},
- {id:"ch22",url:"https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/chapters/22-building-a-project-for-human-liberation.md"}
+{id:"intro",path:"manuscript/introduction.md"},
+...chapters.map((name,index)=>({id:`ch${index+1}`,path:`manuscript/chapters/${name}`})),
+{id:"conclusion",path:"manuscript/conclusion.md"}
 ];
 const content=document.getElementById("content");
+const status=document.createElement("p");
+status.className="loading";
+status.setAttribute("role","status");
+status.setAttribute("aria-live","polite");
+status.textContent="جارٍ تحميل المخطوط…";
+content.replaceChildren(status);
 async function loadBook(){
- if(!window.marked){content.innerHTML='<p>تعذر تحميل محرك تنسيق النص. يرجى إعادة تحميل الصفحة.</p>';return}
- marked.setOptions({gfm:true,breaks:false});
- let html='<h1>المقدمة العامة والفصول المتاحة</h1><p>المقدمة والفصول 1–15 و19–22 إعادة بناء تحريرية جديدة؛ والفصول 16–18 مسودات محفوظة قيد المراجعة. جميعها تحتاج مراجعة علمية ولغوية وتوثيقية قبل النشر النهائي.</p>';
- for(const file of files){
-  try{
-   const response=await fetch(file.url);
-   if(!response.ok) throw new Error('HTTP '+response.status);
-   const md=await response.text();
-   html+='<section id="'+file.id+'">'+marked.parse(md)+'</section><hr>';
-  }catch(e){html+='<section id="'+file.id+'"><h2>تعذر تحميل '+file.id+'</h2><p>تحقق من الاتصال أو افتح ملف الفصل مباشرة من مستودع GitHub.</p></section>'}
+ if(!window.marked){
+  status.textContent="تعذر تحميل محرك تنسيق النص. تحقق من الاتصال ثم أعد تحميل الصفحة.";
+  return;
  }
- try{const c=await fetch('https://raw.githubusercontent.com/gpldroid/edumad/main/manuscript/conclusion.md');if(!c.ok)throw new Error('HTTP '+c.status);html+='<section id="conclusion">'+marked.parse(await c.text())+'</section><hr>';}catch(e){html+='<section id="conclusion"><h1>الخاتمة العامة</h1><p>تعذر تحميل الخاتمة حالياً.</p></section>';} html+='<section id="references"><h1>المراجع والفهارس</h1><p>تُستكمل بعد التحقق من المراجع الواردة في الفصول وتوحيد أسلوب التوثيق، ثم إعداد فهرس الأعلام والمصطلحات والموضوعات. لا تعتمد قوائم المراجع الأولية الحالية بوصفها قائمة نهائية.</p></section>';
+ marked.setOptions({gfm:true,breaks:false});
+ const results=await Promise.allSettled(files.map(async file=>{
+  const response=await fetch(`./${file.path}`,{cache:"no-cache"});
+  if(!response.ok) throw new Error(`HTTP ${response.status}`);
+  return {file,markdown:await response.text()};
+ }));
+ let html="";
+ for(let i=0;i<results.length;i++){
+  const result=results[i];
+  const file=files[i];
+  if(result.status==="fulfilled"){
+   html+=`<section id="${file.id}">${marked.parse(result.value.markdown)}</section><hr>`;
+  }else{
+   const githubUrl=`https://github.com/gpldroid/edumad/blob/main/${file.path}`;
+   html+=`<section id="${file.id}"><h2>تعذر تحميل هذا الجزء</h2><p>لم يتمكن القارئ من تحميل الملف المحلي. <a href="${githubUrl}" target="_blank" rel="noopener noreferrer">افتح الملف في GitHub</a>.</p></section><hr>`;
+  }
+ }
+ html+='<section id="references"><h1>المراجع والفهارس</h1><p>تُستكمل بعد التحقق من المراجع الواردة في الفصول وتوحيد أسلوب التوثيق، ثم إعداد فهرس الأعلام والمصطلحات والموضوعات. لا تعتمد قوائم المراجع الأولية الحالية بوصفها قائمة نهائية.</p></section>';
  content.innerHTML=html;
+ const failed=results.filter(r=>r.status==="rejected").length;
+ if(failed){
+  const warning=document.createElement("p");
+  warning.className="status";
+  warning.textContent=`تعذر تحميل ${failed} من ${files.length} أجزاء؛ راجع الروابط المباشرة داخل مواضع الخطأ.`;
+  content.prepend(warning);
+ }
 }
 loadBook();
 </script>
