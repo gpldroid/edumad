@@ -49,7 +49,7 @@ for (const file of required) {
 const html = readFileSync(join(root, "index.html"), "utf8");
 for (const id of ["intro", ...chapterFiles.map((_, i) => `ch${i + 1}`), "conclusion", "references"]) {
   if (!html.includes(`id="${id}"`) && !html.includes(`id='${id}'`)) {
-    errors.push(`Reader navigation/content target missing: #${id}`);
+    errors.push(`Reader navigation entry or generated content target missing: #${id}`);
   }
 }
 if (!html.includes('id="content"') && !html.includes("id='content'")) {
