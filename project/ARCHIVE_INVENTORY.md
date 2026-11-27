@@ -162,3 +162,28 @@
 أُنشئ الملف `manuscript/chapters/03-work-value-economic-dependence.md` بعنوان وظيفي مؤقت **«العمل والقيمة وعلاقات التبعية في الاقتصاد الحديث»**، لأن العنوان الأصلي للفصل الثالث لم يُستعد من الفهرس المرجعي. أُعدّ بوصفه مدخلاً للباب الثاني «العبودية الاقتصادية والمالية»، ويتناول العمل والاستقلال المادي، وملكية وسائل الإنتاج والقوة التفاوضية، والأجر وتوزيع القيمة، وانتقال المخاطر إلى الفرد، والهشاشة الاقتصادية وحدود الاختيار، والتمييز القانوني بين الاستغلال والعمل الجبري والاتجار بالأشخاص، وشروط علاقة العمل العادلة.
 
 أُدرج الفصل في قارئ المخطوط بعد الفصل الثاني. النص إعادة بناء جديدة لا تستعيد مسودة أصلية، ومراجعه أولية تحتاج إلى تدقيق الطبعات والنصوص الرسمية والإحالات. يبقى عنوانه مؤقتاً إلى حين مطابقة النسخة الأصلية من الفهرس.
+
+
+## 14. استكمال إعادة بناء الفصول 4–15 و19–22 — 2026-11-27
+
+أُنشئت الملفات التالية بوصفها إعادة بناء تحريرية جديدة، لا نصوصاً أصلية مستعادة:
+- `manuscript/chapters/04-structural-transformations-of-economy.md`
+- `manuscript/chapters/05-debt-credit-financial-dependence.md`
+- `manuscript/chapters/06-consumption-poverty-and-economic-exclusion.md`
+- `manuscript/chapters/07-class-stratification-and-inequality.md`
+- `manuscript/chapters/08-power-domination-political-control.md`
+- `manuscript/chapters/09-law-institutions-protection-restraint.md`
+- `manuscript/chapters/10-control-of-mind-and-consciousness.md`
+- `manuscript/chapters/11-media-culture-public-opinion.md`
+- `manuscript/chapters/12-identity-alienation-social-conformity.md`
+- `manuscript/chapters/13-data-economy-and-privacy.md`
+- `manuscript/chapters/14-algorithms-and-artificial-intelligence.md`
+- `manuscript/chapters/15-digital-platforms-always-connected-human.md`
+- `manuscript/chapters/19-contemporary-slavery-global-economy.md`
+- `manuscript/chapters/20-different-experiences-across-countries.md`
+- `manuscript/chapters/21-dismantling-mechanisms-of-submission.md`
+- `manuscript/chapters/22-building-a-project-for-human-liberation.md`
+
+أُدرجت هذه الفصول في قارئ المخطوط بالترتيب. عناوين الفصلين 4 و6 مؤقتة، وبعض عناوين الأبواب غير مثبتة في السجل المتاح وتحتاج المطابقة بالفهرس الأصلي. الفصل 5 صيغ من جديد على أساس عنوانه ومحاوره المعروفة، ويجب عند العثور على المسودة الجزئية السابقة إجراء مقارنة تحريرية معها والحفاظ على الأصل. لم تُعدّل ملفات الفصول 16–18.
+
+**الحالة بعد هذه المرحلة:** توجد ملفات للمقدمة والفصول 1–22، لكن الفصول 16–18 لا تزال مسودات سابقة قيد المراجعة، وبقية الملفات الجديدة إعادة بناء تحريرية. الخاتمة العامة والمراجع الموحدة والفهارس والمراجعة الأكاديمية واللغوية والتوثيقية لم تكتمل بعد. لا يجوز وصف المخطوط بأنه كتاب نهائي أو جاهز للنشر.
