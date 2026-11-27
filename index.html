@@ -54,7 +54,7 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 </aside>
 <main>
 <div class="notice"><strong>حالة هذه النسخة: مسودة عمل قيد الاستكمال</strong>
-هذه الصفحة تجمع النصوص الكاملة المتاحة حالياً في المستودع. المتاح حالياً الفصول 16 و17 و18؛ أما المقدمة والفصول 1–15 والفصول 19–22 والخاتمة فتظل قيد الاستعادة والتأليف والتحرير. هذه نسخة عمل وليست إصداراً نهائياً.</div>
+هذه الصفحة تعرض المقدمة المعاد بناؤها تحريرياً، إلى جانب الفصول 16 و17 و18 المحفوظة. المقدمة إعادة بناء جديدة وليست النص الأصلي المستعاد؛ أما الفصول 1–15 والفصول 19–22 والخاتمة فتظل قيد إعادة البناء والتأليف والتحرير. هذه نسخة عمل وليست إصداراً نهائياً.</div>
 <div class="toolbar"><button onclick="window.print()">طباعة / حفظ PDF</button><button onclick="document.documentElement.classList.toggle('large')">تبديل وضع القراءة</button></div>
 <article class="paper" id="content"><div class="loading">جارٍ تحميل المخطوط المحفوظ…</div></article>
 </main>
@@ -71,7 +71,7 @@ const content=document.getElementById("content");
 async function loadBook(){
  if(!window.marked){content.innerHTML='<p>تعذر تحميل محرك تنسيق النص. يرجى إعادة تحميل الصفحة.</p>';return}
  marked.setOptions({gfm:true,breaks:false});
- let html='<h1>النصوص المتاحة من المخطوط</h1><p>يتم عرض النصين من ملفات Markdown المحفوظة في مستودع المشروع، مع الحفاظ على تقسيمهما ومراجعهما الأولية.</p>';
+ let html='<h1>المقدمة العامة والفصول المحفوظة</h1><p>المقدمة إعادة بناء تحريرية جديدة، والفصول 16–18 مسودات محفوظة قيد المراجعة.</p>';
  for(const file of files){
   try{
    const response=await fetch(file.url);
