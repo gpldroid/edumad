@@ -64,3 +64,6 @@
 - European Union. Regulation (EU) 2016/679 (General Data Protection Regulation), 27 April 2016.
 - Nissenbaum, Helen. *Privacy in Context: Technology, Policy, and the Integrity of Social Life*. Stanford University Press, 2010.
 - Zuboff, Shoshana. *The Age of Surveillance Capitalism*. PublicAffairs, 2019.
+
+- Council of Europe. *Convention for the Protection of Individuals with Regard to Automatic Processing of Personal Data* (ETS No. 108), 1981; Convention 108+. https://www.coe.int/en/web/data-protection/convention108-and-protocol
+- UNCTAD. *Digital Economy Report 2021: Cross-border Data Flows and Development*. 2021.
