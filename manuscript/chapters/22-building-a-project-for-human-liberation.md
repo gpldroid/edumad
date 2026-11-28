@@ -78,15 +78,6 @@
 
 إن معيار المجتمع الحر ليس غياب الاعتماد المتبادل، بل أن يكون هذا الاعتماد قائماً على الاعتراف والاختيار والحقوق، وأن يستطيع الفرد أن يقول «لا» دون أن يفقد مقومات حياته، وأن يشارك في القرار الذي يمسه، وأن يجد مؤسسة تنصفه عندما تُنتهك حقوقه. بهذا المعنى، يصبح التحرر مشروعاً إنسانياً مفتوحاً، لا شعاراً سياسياً مغلقاً.
 
-## مراجع الفصل
-
-- Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. 1785.
-- Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
-- Nussbaum, Martha C. *Creating Capabilities: The Human Development Approach*. Harvard University Press, 2011.
-- Pettit, Philip. *Republicanism: A Theory of Freedom and Government*. Oxford University Press, 1997.
-- UN. *Guiding Principles on Business and Human Rights*. 2011.
-- UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. 2021.
-
 ## المبحث العاشر: مبادئ الحوكمة الأخلاقية للمشروع
 
 حتى لا يتحول مشروع التحرر إلى سلطة جديدة، ينبغي أن يقوم على مبادئ تمنع احتكار القرار: التعددية، والشفافية، وتداول المسؤولية، واستقلال القضاء، وحرية التنظيم، وحق النقد، وحماية الأقليات، ومراجعة السياسات. كما يجب أن تكون الوسائل منسجمة مع الغايات؛ فلا تبرر العدالة استخدام الإكراه أو إلغاء الحقوق أو إسكات المختلفين.
@@ -121,3 +112,12 @@
 قد تتحول حركة إصلاحية إلى سلطة مغلقة إذا احتكرت تمثيل المتضررين أو رفضت النقد أو بررت وسائلها بالغاية. ولذلك يجب أن تشمل الحوكمة تداول المسؤولية، والشفافية، واستقلال آليات الشكوى، وحق الانسحاب، وحماية الأقلية، ونشر التقييمات السلبية، وإمكان الطعن في القرارات.
 
 ويجب أن تكون المشاركة حقيقية لا استشارية شكلية؛ أي أن يعرف المشاركون كيف استُخدمت آراؤهم، ولماذا رُفض بعضها، وما الجهة التي يمكن مساءلتها. ولا يُقاس نجاح المشروع بانتشار شعاره أو عدد المنخرطين فيه، بل بقدرته على توسيع الخيارات الفعلية وتقليل الإكراه وتحسين قدرة الناس على الاعتراض دون خوف.
+
+## مراجع الفصل
+
+- Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. 1785.
+- Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
+- Nussbaum, Martha C. *Creating Capabilities: The Human Development Approach*. Harvard University Press, 2011.
+- Pettit, Philip. *Republicanism: A Theory of Freedom and Government*. Oxford University Press, 1997.
+- UN. *Guiding Principles on Business and Human Rights*. 2011.
+- UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. 2021.
