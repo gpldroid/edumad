@@ -113,12 +113,9 @@
 
 ## مراجع الفصل
 
-### المراجع الأولية
-
 1. Addati, L., Cattaneo, U., Esquivel, V., & Valarino, I. (2018). *Care work and care jobs for the future of decent work*. International Labour Office. ISBN 978-92-2-131643-5. https://www.ilo.org/publications/major-publications/care-work-and-care-jobs-future-decent-work
 2. International Labour Organization (2024). *The Impact of Care Responsibilities on Women’s Labour Force Participation*. Statistical Brief, October 2024.
 3. World Health Organization. *Violence Against Women*. Fact sheet.
 4. OECD (2023). *SIGI 2023 Global Report*. OECD Publishing.
 5. OECD (2019). *SIGI 2019 Global Report: Discrimination in the Family*. OECD Publishing.
 
-**ملاحظة تحريرية:** هذه مسودة فصل، ومراجعه أولية؛ يلزم التحقق من بيانات الطبعات والصفحات والإحالات المباشرة قبل إغلاق النسخة العلمية النهائية.
