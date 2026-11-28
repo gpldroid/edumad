@@ -29,6 +29,7 @@
 - project/RELEASE_POLICY.md: سياسة الترقيم والإصدارات والاعتماد.
 - project/EDITORIAL_REVIEW_REPORT.md: نتائج التدقيق التحريري العام.
 - project/CHAPTER_REVIEW_01-05.md: المراجعة التفصيلية للفصول 1–5.\n- project/CHAPTER_REVIEW_07-12.md: المراجعة التفصيلية للفصول 7–12.\n- project/ACADEMIC_SOURCE_AUDIT.md: التدقيق المصدري الأولي للفصول 1–22.\n- project/CITATION_STYLE.md: سياسة APA 7 وتوثيق التشريعات والمصادر.
+- project/SOURCE_VERIFICATION_BATCH_02.md: التحقق الموضعي من مصادر الفصول 7–12.
 
 ## منهجية التحرير والتوثيق
 1. الحفاظ على النصوص الأصلية المتاحة وعدم اختلاق نصوص مفقودة.
