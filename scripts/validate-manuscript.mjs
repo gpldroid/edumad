@@ -48,24 +48,24 @@ for (const file of required) {
     errors.push(`Empty file: ${file}`);
     continue;
   }
-  if (file.endsWith(".md") && !/^#\\s+\\S/m.test(content)) {
+  if (file.endsWith(".md") && !/^#\s+\\S/m.test(content)) {
     errors.push(`Missing top-level Markdown heading: ${file}`);
   }
 
   if (file.includes(join("manuscript", "chapters"))) {
-    const lines = content.split(/\\r?\\n/);
+    const lines = content.split(/\r?\n/);
     const bibliographyHeadings = [];
     const bodyHeadings = [];
     const levelTwoHeadings = [];
 
     lines.forEach((line, index) => {
-      if (/^##\\s+(?:مراجع|المراجع|مصادر|المصادر)/.test(line)) {
+      if (/^##\s+(?:مراجع|المراجع|مصادر|المصادر)/.test(line)) {
         bibliographyHeadings.push(index);
       }
-      if (/^##\\s+(?:تمهيد|المبحث|خلاصة|خاتمة|التمهيد|الخاتمة)/.test(line)) {
+      if (/^##\s+(?:تمهيد|المبحث|خلاصة|خاتمة|التمهيد|الخاتمة)/.test(line)) {
         bodyHeadings.push(index);
       }
-      if (/^##\\s+/.test(line)) {
+      if (/^##\s+/.test(line)) {
         levelTwoHeadings.push({ title: line.trim(), line: index + 1 });
       }
     });
@@ -80,8 +80,8 @@ for (const file of required) {
       if (bibliographyIndex < lastBodyIndex) {
         errors.push(`Bibliography appears before the final chapter section: ${file}`);
       }
-      const bibliographyText = lines.slice(bibliographyIndex + 1).join("\\n");
-      if (!/^\\s*(?:[-*]\\s+|\\d+[.)]\\s+)/m.test(bibliographyText)) {
+      const bibliographyText = lines.slice(bibliographyIndex + 1).join("\n");
+      if (!/^\s*(?:[-*]\s+|\\d+[.)]\s+)/m.test(bibliographyText)) {
         errors.push(`Bibliography section has no detectable reference entries: ${file}`);
       }
       bibliographyChecks += 1;
