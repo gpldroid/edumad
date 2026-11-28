@@ -90,24 +90,6 @@
 
 ومع ذلك، لا يصح مساواة كل تفاوت أو استغلال بالعبودية. فالعمل المأجور والتبادل الاقتصادي والاعتماد المتبادل ليست في ذاتها استعباداً. ويصبح استعمال مفاهيم الإكراه أو العمل الجبري أو الرق مشروعاً تحليلياً أو قانونياً فقط عندما تتوافر عناصرها المحددة. ومن هنا ينتقل الكتاب إلى موضوع الديون والائتمان، حيث يمكن للالتزامات المالية أن تكون أداة لتوسيع الفرص، كما يمكن في ظروف معينة أن تتحول إلى علاقة تبعية طويلة الأمد.
 
-## مراجع الفصل
-
-### مراجع أكاديمية
-- Polanyi, Karl. *The Great Transformation: The Political and Economic Origins of Our Time*. 1944. تُراجع بيانات الطبعة المعتمدة.
-- Marx, Karl. *Capital: A Critique of Political Economy*, Volume I. 1867. تُحدد الترجمة والطبعة قبل اعتماد الإحالات.
-- Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
-- Standing, Guy. *The Precariat: The New Dangerous Class*. Bloomsbury Academic, 2011.
-- Kalleberg, Arne L. *Good Jobs, Bad Jobs: The Rise of Polarized and Precarious Employment Systems in the United States, 1970s to 2000s*. Russell Sage Foundation, 2011.
-
-### مواثيق ومعايير مؤسسية
-- منظمة العمل الدولية، اتفاقية العمل الجبري رقم 29 (1930).
-- منظمة العمل الدولية، بروتوكول 2014 الملحق باتفاقية العمل الجبري.
-- منظمة العمل الدولية، اتفاقية الحرية النقابية وحماية حق التنظيم رقم 87 (1948).
-- منظمة العمل الدولية، اتفاقية حق التنظيم والمفاوضة الجماعية رقم 98 (1949).
-- الأمم المتحدة، بروتوكول منع وقمع ومعاقبة الاتجار بالأشخاص، وبخاصة النساء والأطفال (2000).
-
-> **ملاحظة توثيقية:** هذه قائمة أولية وليست ببليوغرافيا نهائية. يلزم التحقق من بيانات الطبعات والترجمات والنصوص الرسمية، وإضافة الإحالات الدقيقة بعد الرجوع إلى المصادر الأصلية. لم تُدرج أرقام صفحات أو إحصاءات غير متحقق منها.
-
 ## المبحث الثامن: تقسيم العمل وسلطة التنظيم داخل المؤسسة
 
 لا تتحدد علاقة العمل بالأجر والعقد فقط؛ فطريقة تنظيم المهام وتوزيع الوقت وتقييم الأداء تمنح الإدارة سلطة واسعة على الحياة اليومية للعاملين. وقد يكون تقسيم العمل وسيلة لرفع الكفاءة وتنسيق الخبرات، لكنه قد يؤدي أيضاً إلى تجزئة المهارة، وإضعاف قدرة العامل على فهم المنتج أو التأثير في قرارات الإنتاج، وتحويله إلى منفذ لخطوات محددة سلفاً.
@@ -157,3 +139,21 @@
 ### مراجع إضافية للتحقق
 - International Labour Organization. *Tripartite Declaration of Principles concerning Multinational Enterprises and Social Policy*. 6th edition, 2022. https://www.ilo.org/empent/areas/mne-declaration
 - International Labour Organization. *Freedom of Association: Compilation of Decisions of the Committee on Freedom of Association*. 6th edition, 2018. https://www.ilo.org/global/standards/subjects-covered-by-international-labour-standards/freedom-of-association/lang--en/index.htm
+
+## مراجع الفصل
+
+### مراجع أكاديمية
+- Polanyi, Karl. *The Great Transformation: The Political and Economic Origins of Our Time*. 1944. تُراجع بيانات الطبعة المعتمدة.
+- Marx, Karl. *Capital: A Critique of Political Economy*, Volume I. 1867. تُحدد الترجمة والطبعة قبل اعتماد الإحالات.
+- Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
+- Standing, Guy. *The Precariat: The New Dangerous Class*. Bloomsbury Academic, 2011.
+- Kalleberg, Arne L. *Good Jobs, Bad Jobs: The Rise of Polarized and Precarious Employment Systems in the United States, 1970s to 2000s*. Russell Sage Foundation, 2011.
+
+### مواثيق ومعايير مؤسسية
+- منظمة العمل الدولية، اتفاقية العمل الجبري رقم 29 (1930).
+- منظمة العمل الدولية، بروتوكول 2014 الملحق باتفاقية العمل الجبري.
+- منظمة العمل الدولية، اتفاقية الحرية النقابية وحماية حق التنظيم رقم 87 (1948).
+- منظمة العمل الدولية، اتفاقية حق التنظيم والمفاوضة الجماعية رقم 98 (1949).
+- الأمم المتحدة، بروتوكول منع وقمع ومعاقبة الاتجار بالأشخاص، وبخاصة النساء والأطفال (2000).
+
+> **ملاحظة توثيقية:** هذه قائمة أولية وليست ببليوغرافيا نهائية. يلزم التحقق من بيانات الطبعات والترجمات والنصوص الرسمية، وإضافة الإحالات الدقيقة بعد الرجوع إلى المصادر الأصلية. لم تُدرج أرقام صفحات أو إحصاءات غير متحقق منها.
