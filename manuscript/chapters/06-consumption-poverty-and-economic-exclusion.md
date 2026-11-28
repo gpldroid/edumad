@@ -106,16 +106,6 @@
 
 وعليه، فإن بناء الكرامة الاقتصادية يبدأ بتحويل الحقوق العامة إلى إمكانات واقعية: عمل لائق، وخدمات يمكن الوصول إليها، وحماية اجتماعية تحفظ الاستقلال، وأسواق شفافة، ومؤسسات تسمح بالاعتراض والمساءلة. فالمجتمع الذي يوسع خيارات أفراده لا يكتفي بتخفيف الفقر؛ بل يقلل أيضاً الشروط التي تجعل الحاجة أداة للسيطرة على الإنسان.
 
-## مراجع الفصل
-
-- Sen, Amartya. *Development as Freedom*. New York: Alfred A. Knopf, 1999. يُستخدم لتأطير التنمية بوصفها توسيعاً للحريات والقدرات، مع ضرورة مراجعة أرقام الصفحات وفق الطبعة المعتمدة.
-- United Nations Development Programme (UNDP). *2026 Global Multidimensional Poverty Index: Statistical Update*. New York: UNDP, 2026. https://hdr.undp.org/content/2026-global-multidimensional-poverty-index
-- United Nations Development Programme (UNDP). *2024 Global Multidimensional Poverty Index: Poverty amid conflict*. New York: UNDP, 2024. https://hdr.undp.org/content/2024-global-multidimensional-poverty-index-mpi
-- World Bank. *World Development Report 2000/2001: Attacking Poverty*. Washington, DC: World Bank, 2000. https://documents.worldbank.org/curated/en/230351468332946759
-- International Labour Organization (ILO). *Decent Work Deficit: A Global Challenge*. Report of the Director-General, International Labour Conference, 89th Session, 2001. https://www.ilo.org/public/english/standards/relm/ilc/ilc89/rep-i-a.htm
-
-> ملاحظة توثيقية: أُدرجت بيانات المصدر والرابط حيث أمكن التحقق منها. قبل الإصدار النهائي، يجب تثبيت الطبعات المستخدمة فعلياً، وإضافة أرقام الصفحات لكل إحالة محددة، ومراجعة الترجمة العربية للعناوين إذا استُخدمت في قائمة مراجع عربية.
-
 ## المبحث التاسع: قياس الفقر وحدود المؤشرات المركبة
 
 تحتاج دراسة الفقر إلى التمييز بين وحدة القياس، ومصدر البيانات، والفترة الزمنية، وحدود المقارنة. فمقياس دخل الأسرة لا يساوي بالضرورة مقياس إنفاقها، ومتوسط الدخل لا يصف توزيع الموارد داخل الأسرة، كما أن خط الفقر الوطني يؤدي وظيفة مختلفة عن خط دولي موحد. وقد تخفي المتوسطات فروقاً كبيرة بين المدن والقرى، وبين المناطق، وبين الأسر التي تختلف في عدد أفرادها واحتياجاتها.
@@ -151,3 +141,13 @@
 - World Bank. *World Development Report 2016: Digital Dividends*. Washington, DC: World Bank, 2016. https://www.worldbank.org/en/publication/wdr2016
 
 > ملاحظة تحريرية: المباحث المضافة توسعة تحليلية جديدة، وتحتاج مطابقة الإحالات داخل المتن ببيانات الطبعات والصفحات قبل الإصدار النهائي.
+
+## مراجع الفصل
+
+- Sen, Amartya. *Development as Freedom*. New York: Alfred A. Knopf, 1999. يُستخدم لتأطير التنمية بوصفها توسيعاً للحريات والقدرات، مع ضرورة مراجعة أرقام الصفحات وفق الطبعة المعتمدة.
+- United Nations Development Programme (UNDP). *2026 Global Multidimensional Poverty Index: Statistical Update*. New York: UNDP, 2026. https://hdr.undp.org/content/2026-global-multidimensional-poverty-index
+- United Nations Development Programme (UNDP). *2024 Global Multidimensional Poverty Index: Poverty amid conflict*. New York: UNDP, 2024. https://hdr.undp.org/content/2024-global-multidimensional-poverty-index-mpi
+- World Bank. *World Development Report 2000/2001: Attacking Poverty*. Washington, DC: World Bank, 2000. https://documents.worldbank.org/curated/en/230351468332946759
+- International Labour Organization (ILO). *Decent Work Deficit: A Global Challenge*. Report of the Director-General, International Labour Conference, 89th Session, 2001. https://www.ilo.org/public/english/standards/relm/ilc/ilc89/rep-i-a.htm
+
+> ملاحظة توثيقية: أُدرجت بيانات المصدر والرابط حيث أمكن التحقق منها. قبل الإصدار النهائي، يجب تثبيت الطبعات المستخدمة فعلياً، وإضافة أرقام الصفحات لكل إحالة محددة، ومراجعة الترجمة العربية للعناوين إذا استُخدمت في قائمة مراجع عربية.
