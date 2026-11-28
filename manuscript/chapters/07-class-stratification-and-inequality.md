@@ -137,13 +137,6 @@
 
 ويخلص هذا المنهج إلى أن الطبقة ليست قدراً ثابتاً، لكنها ليست مجرد نتيجة لاختيارات فردية أيضاً. إنها بنية تتشكل عبر الملكية والعمل والتعليم والسكن والسياسة والثقافة، ويمكن للمؤسسات أن تعيد إنتاجها أو تفتح مسارات لتغييرها. ويظل السؤال الحاسم هو ما إذا كانت الفوارق تسمح بتعدد أنماط الحياة والاختيار، أم تتحول إلى سلطة دائمة تحرم بعض الفئات من القدرة على الرفض والمشاركة.
 
-### مراجع إضافية للتحقق
-- Atkinson, Anthony B. *Inequality: What Can Be Done?* Cambridge, MA: Harvard University Press, 2015.
-- OECD. *In It Together: Why Less Inequality Benefits All*. Paris: OECD Publishing, 2015. https://doi.org/10.1787/9789264235120-en
-- World Inequality Lab. *World Inequality Report 2022*. https://wir2022.wid.world/
-
-> ملاحظة تحريرية: المباحث المضافة توسعة تحليلية جديدة، وتحتاج مطابقة الإحالات داخل المتن ببيانات الطبعات والصفحات قبل الإصدار النهائي.
-
 ## مراجع الفصل
 
 - Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. Translated by Richard Nice. Cambridge, MA: Harvard University Press, 1984. (الأصل الفرنسي 1979).
@@ -152,3 +145,11 @@
 - Wright, Erik Olin. *Understanding Class*. London: Verso, 2015.
 
 > ملاحظة توثيقية: هذه قائمة تأسيسية وليست ببليوغرافيا نهائية. يجب مطابقة الطبعة المستخدمة فعلياً وإضافة أرقام الصفحات لكل إحالة مباشرة أو فكرة محددة قبل اعتماد الفصل.
+
+### مراجع إضافية للتحقق
+
+- Atkinson, Anthony B. *Inequality: What Can Be Done?* Cambridge, MA: Harvard University Press, 2015.
+- OECD. *In It Together: Why Less Inequality Benefits All*. Paris: OECD Publishing, 2015. https://doi.org/10.1787/9789264235120-en
+- World Inequality Lab. *World Inequality Report 2022*. https://wir2022.wid.world/
+
+> ملاحظة تحريرية: المباحث المضافة توسعة تحليلية جديدة، وتحتاج مطابقة الإحالات داخل المتن ببيانات الطبعات والصفحات قبل الإصدار النهائي.
