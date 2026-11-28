@@ -108,7 +108,9 @@ const editorialMarkers = [
   "تنبيه تحريري",
   "حالة النص:",
   "حالة هذه النسخة:",
-  "عنوان مؤقت"
+  "عنوان مؤقت",
+  "قائمة أولية للاستدلال",
+  "قيد المطابقة مع النسخة المرجعية"
 ];
 for (const file of readerFiles) {
   const content = readFileSync(join(root, file), "utf8");
