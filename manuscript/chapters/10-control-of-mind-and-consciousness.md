@@ -120,15 +120,11 @@
 
 ## مراجع الفصل
 
-### مراجع وإحالات أولية
-
 - Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. 1975; English trans. 1977.
 - Arendt, Hannah. *The Origins of Totalitarianism*. 1951.
 - Sunstein, Cass R. *#Republic: Divided Democracy in the Age of Social Media*. Princeton University Press, 2017.
 - UNESCO. (2021). *Media and information literate citizens: Think critically, click wisely!* ISBN 978-92-3-100448-3. https://www.unesco.org/en/articles/media-and-information-literate-citizens
 - UNESCO. (2021, November 23). *Recommendation on the ethics of artificial intelligence*. https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence
-### مراجع إضافية للتحقق
-
 - Cialdini, Robert B. *Influence: The Psychology of Persuasion*. Revised edition. Harper Business, 2006.
 - Sunstein, Cass R. *The Ethics of Influence: Government in the Age of Behavioral Science*. Cambridge University Press, 2016.
 - Thaler, Richard H., and Cass R. Sunstein. *Nudge: Improving Decisions about Health, Wealth, and Happiness*. Yale University Press, 2008.
