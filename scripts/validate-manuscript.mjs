@@ -48,7 +48,7 @@ for (const file of required) {
     errors.push(`Empty file: ${file}`);
     continue;
   }
-  if (file.endsWith(".md") && !/^#\s+\\S/m.test(content)) {
+  if (file.endsWith(".md") && !/^#\s+\S/m.test(content)) {
     errors.push(`Missing top-level Markdown heading: ${file}`);
   }
 
