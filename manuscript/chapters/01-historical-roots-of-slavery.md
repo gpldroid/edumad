@@ -64,7 +64,7 @@
 
 وتتمثل النتيجة المنهجية الأساسية في ضرورة التمييز بين الرق بوصفه وضعاً قانونياً تاريخياً، وبين أشكال الاستغلال والهيمنة والتبعية التي قد تشترك معه في بعض آليات السيطرة دون أن تتطابق معه. وعلى هذا الأساس، يصبح الانتقال إلى التحولات الفلسفية لمفهوم الحرية انتقالاً من وصف المؤسسة التاريخية إلى مساءلة المعيار الذي نحكم به على السلطة والعلاقات الاجتماعية.
 
-## مراجع أولية للتحقق
+## مراجع الفصل
 
 - Davis, David Brion. *The Problem of Slavery in Western Culture*. Cornell University Press, 1966.
 - Drescher, Seymour. *Abolition: A History of Slavery and Antislavery*. Cambridge University Press, 2009.
@@ -101,8 +101,7 @@
 
 وعلى هذا الأساس، لا يُقاس الحاضر بالماضي عبر استعارة لفظ «العبودية» لكل علاقة غير عادلة. بل تُستخدم التجربة التاريخية لتطوير أسئلة دقيقة حول السيطرة على الجسد والعمل والحركة، وحول قدرة الفرد على الرفض والمغادرة، وحول دور القانون والمؤسسات في حماية الاستقلال أو تقويضه.
 
-## مراجع إضافية للتحقق
-
+### مراجع إضافية للتحقق
 - Bradley, Keith, and Paul Cartledge, eds. *The Cambridge World History of Slavery, Volume 1: The Ancient Mediterranean World*. Cambridge University Press, 2011. https://doi.org/10.1017/CHOL9780521840668
 - Vlassopoulos, Kostas. “Greek and Roman Slaveries: Methodological Issues.” In *The Oxford Handbook of Greek and Roman Slaveries*. Oxford University Press, 2024. https://doi.org/10.1093/oxfordhb/9780199575251.013.38
 - Diamantopoulos, Ioannis, Milan Prodanovic, and Kostas Vlassopoulos. “Recent Developments in the Historical Research of Ancient Slavery.” *The Classical Review* 75, no. 2 (2025): 297–302. https://doi.org/10.1017/S0009840X25000393
