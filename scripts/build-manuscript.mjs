@@ -50,13 +50,26 @@ if (missing.length) {
   process.exit(1);
 }
 const cover = [
-  "**نسخة مراجعة داخلية — غير معتمدة للنشر النهائي**",
-  "",
-  "تضم هذه النسخة المقدمة والفصول 1–22 والخاتمة. تظل المراجعة الأكاديمية المستقلة والتحقق النهائي من الطبعات والصفحات والمراجع شرطاً قبل اعتمادها للنشر.",
-  "",
-  "\\newpage",
+  "\\pagenumbering{gobble}",
+  "\\begin{titlepage}",
+  "\\begin{center}",
+  "\\vspace*{0.22\\textheight}",
+  "{\\Huge\\bfseries{}العبودية المعاصرة\\par}",
+  "\\vspace{1.2cm}",
+  "{\\Large{}قراءة في بنية السيطرة الحديثة وآليات الخضوع واستعادة الحرية الإنسانية\\par}",
+  "\\vspace{2cm}",
+  "{\\large{}تأليف: عماد لمراني\\par}",
+  "\\vfill",
+  "{\\small{}نسخة مراجعة داخلية — غير معتمدة للنشر النهائي\\par}",
+  "\\end{center}",
+  "\\end{titlepage}",
+  "\\clearpage",
+  "\\pagenumbering{roman}",
+  "\\tableofcontents",
+  "\\clearpage",
+  "\\pagenumbering{arabic}",
   ""
-].join("\n");
+].join("\\n");
 const output = cover + sections.join("");
 mkdirSync(join(root, "dist"), { recursive: true });
 writeFileSync(join(root, "dist", "edumad-manuscript-review.md"), output + "\n", "utf8");
