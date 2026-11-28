@@ -123,3 +123,5 @@
 - Amartya Sen, *Development as Freedom* (1999).
 - Joseph E. Stiglitz, *The Price of Inequality* (2012).
 - International Labour Organization. (2024). *World Employment and Social Outlook: Trends 2024*. Geneva: ILO. https://doi.org/10.54394/HQAE1085.
+- UNCTAD. (2024). *World Investment Report 2024: Investment Facilitation and Digital Government*. https://unctad.org/publication/world-investment-report-2024.
+- OECD. (2025). *OECD Skills Outlook 2025: Building the Skills of the 21st Century for All*. https://www.oecd.org/en/publications/oecd-skills-outlook-2025_26163cd3-en.html.
