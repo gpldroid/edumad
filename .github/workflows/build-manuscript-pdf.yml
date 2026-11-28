@@ -28,7 +28,7 @@ jobs:
       - name: Install Pandoc, XeLaTeX, and Arabic fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-arabic fonts-noto-core
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-arabic fonts-noto-core poppler-utils
           fc-match "Noto Naskh Arabic"
           pandoc --version
           xelatex --version
