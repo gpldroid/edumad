@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170mm" height="240mm" viewBox="0 0 850 1200" role="img" aria-labelledby="coverTitle coverDesc">
+  <title id="coverTitle">العبودية المعاصرة — عماد لمراني</title>
+  <desc id="coverDesc">تصور أولي قابل للتحرير لغلاف كتاب عربي، بممر معماري رمزي ولوحة كحلية وذهبية.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101B2B"/>
+      <stop offset="0.58" stop-color="#17283A"/>
+      <stop offset="1" stop-color="#0B1420"/>
+    </linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E6C58F" stop-opacity=".04"/>
+      <stop offset="1" stop-color="#D9A441" stop-opacity=".36"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A8793E"/>
+      <stop offset=".5" stop-color="#E0BD7D"/>
+      <stop offset="1" stop-color="#A8793E"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="850" height="1200" fill="url(#bg)"/>
+  <circle cx="430" cy="620" r="220" fill="#D9A441" opacity=".09" filter="url(#soft)"/>
+  <g fill="none" stroke="#D9A441" stroke-opacity=".25">
+    <path d="M70 120H780M70 1080H780" stroke-width="2"/>
+    <path d="M110 120V1080M740 120V1080" stroke-width="1"/>
+  </g>
+  <g opacity=".9">
+    <path d="M95 810L250 300H600L755 810Z" fill="#26364A" opacity=".42"/>
+    <path d="M175 810L300 385H550L675 810Z" fill="#101B2B" stroke="#A8793E" stroke-opacity=".34" stroke-width="2"/>
+    <path d="M265 810L345 485H505L585 810Z" fill="#0B1420" stroke="#D9A441" stroke-opacity=".48" stroke-width="2"/>
+    <path d="M345 810L390 575H460L505 810Z" fill="url(#light)"/>
+    <path d="M250 300L175 810M600 300L675 810M300 385L265 810M550 385L585 810" stroke="#D9A441" stroke-opacity=".42" stroke-width="3"/>
+    <path d="M95 810H755M175 700H675M220 585H630M250 485H600M300 385H550" stroke="#D9A441" stroke-opacity=".18" stroke-width="2"/>
+  </g>
+  <path d="M425 670c-15 0-26 12-26 27v73h52v-73c0-15-11-27-26-27Z" fill="#080F18" opacity=".88"/>
+  <circle cx="425" cy="651" r="18" fill="#080F18" opacity=".9"/>
+  <g text-anchor="middle" direction="rtl">
+    <text x="425" y="190" fill="#D9A441" font-family="Amiri, 'Noto Naskh Arabic', serif" font-size="27" letter-spacing="4">دراسة فكرية وتحليلية</text>
+    <path d="M285 225H565" stroke="url(#gold)" stroke-width="2"/>
+    <text x="425" y="305" fill="#F2EBDD" font-family="Amiri, 'Noto Naskh Arabic', serif" font-size="76" font-weight="700">العبودية المعاصرة</text>
+    <path d="M325 350H525" stroke="#D9A441" stroke-width="2" opacity=".85"/>
+    <text x="425" y="1010" fill="#D9A441" font-family="Amiri, 'Noto Naskh Arabic', serif" font-size="25">تأليف</text>
+    <text x="425" y="1065" fill="#F2EBDD" font-family="Amiri, 'Noto Naskh Arabic', serif" font-size="42" font-weight="700">عماد لمراني</text>
+    <path d="M320 1100H530" stroke="url(#gold)" stroke-width="2"/>
+  </g>
+  <text x="425" y="1150" text-anchor="middle" fill="#B9B4A9" font-family="serif" font-size="13" letter-spacing="3">EDUMAD</text>
+</svg>
