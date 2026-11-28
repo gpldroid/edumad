@@ -63,17 +63,6 @@
 
 تتخذ السيطرة على الوعي صوراً متعددة، من التنشئة المغلقة إلى التلاعب والدعاية والخوف وتصميم البيئات الرقمية. غير أن الوعي ليس مساحة خالية من الفاعلية؛ فهو قابل للنقد والتعلم والمقاومة. ويبدأ التحرر حين يستطيع الفرد الوصول إلى المعرفة، وفهم مصادر التأثير، ومراجعة المعايير، والاعتراض دون خوف غير مشروع. بذلك يصبح السؤال ليس كيف نمنع كل تأثير اجتماعي، بل كيف نجعل التأثير شفافاً وقابلاً للنقد، ونمنع تحوله إلى سلطة اعتباطية.
 
-## مراجع الفصل
-
-- Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. 1975; English trans. 1977.
-- Arendt, Hannah. *The Origins of Totalitarianism*. 1951.
-- Sunstein, Cass R. *#Republic: Divided Democracy in the Age of Social Media*. Princeton University Press, 2017.
-- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021.
-- UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. Adopted 23 November 2021.
-- ينبغي استكمال أرقام الصفحات والطبعات المستخدمة فعلياً عند إدراج اقتباسات مباشرة؛ لم تُدرج اقتباسات حرفية في هذا الفصل.
-
-- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
-
 ## المبحث الثامن: قراءة تطبيقية لآليات التأثير
 
 يمكن تحليل أي حالة ادعاءً للسيطرة على الوعي عبر أربعة مستويات متكاملة. المستوى الأول هو بنية الرسالة: ما الادعاء؟ وما الأدلة؟ وما المعلومات المحذوفة؟ والثاني هو بنية المرسل: من ينتج الرسالة ويمولها ويوزعها، وما مصالحه؟ والثالث هو بنية التلقي: ما المعرفة السابقة لدى الجمهور، وما الضغوط التي تؤثر في استقباله؟ والرابع هو بنية الأثر: هل تغيرت فرص الاعتراض أو الوصول إلى المعلومات أو اتخاذ القرار؟
@@ -136,3 +125,14 @@
 - OECD. *Dark Commercial Patterns*. OECD Digital Economy Papers, 2022. https://doi.org/10.1787/44f5e846-en
 
 > ملاحظة توثيقية: أضيفت هذه المراجع بوصفها مراجع تأسيسية مقترحة للفحص. يجب مطابقة الطبعة والصفحات وإضافة الإحالات الموضعية عند الاستشهاد التفصيلي؛ ولا تُعامل القائمة وحدها بوصفها تحققاً نهائياً لكل فقرة.
+
+## مراجع الفصل
+
+- Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. 1975; English trans. 1977.
+- Arendt, Hannah. *The Origins of Totalitarianism*. 1951.
+- Sunstein, Cass R. *#Republic: Divided Democracy in the Age of Social Media*. Princeton University Press, 2017.
+- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021.
+- UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. Adopted 23 November 2021.
+- ينبغي استكمال أرقام الصفحات والطبعات المستخدمة فعلياً عند إدراج اقتباسات مباشرة؛ لم تُدرج اقتباسات حرفية في هذا الفصل.
+
+- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
