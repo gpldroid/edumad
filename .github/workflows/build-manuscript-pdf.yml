@@ -7,6 +7,9 @@ on:
     paths:
       - "manuscript/**"
       - "scripts/build-manuscript.mjs"
+      - "scripts/pdf-header.tex"
+      - "scripts/plain-links.lua"
+      - "scripts/ltr-references.lua"
       - ".github/workflows/build-manuscript-pdf.yml"
 
 permissions:
