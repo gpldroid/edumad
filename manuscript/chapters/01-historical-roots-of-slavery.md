@@ -64,19 +64,6 @@
 
 وتتمثل النتيجة المنهجية الأساسية في ضرورة التمييز بين الرق بوصفه وضعاً قانونياً تاريخياً، وبين أشكال الاستغلال والهيمنة والتبعية التي قد تشترك معه في بعض آليات السيطرة دون أن تتطابق معه. وعلى هذا الأساس، يصبح الانتقال إلى التحولات الفلسفية لمفهوم الحرية انتقالاً من وصف المؤسسة التاريخية إلى مساءلة المعيار الذي نحكم به على السلطة والعلاقات الاجتماعية.
 
-## مراجع الفصل
-
-- Davis, David Brion. *The Problem of Slavery in Western Culture*. Cornell University Press, 1966.
-- Drescher, Seymour. *Abolition: A History of Slavery and Antislavery*. Cambridge University Press, 2009.
-- Foner, Eric. *The Fiery Trial: Abraham Lincoln and American Slavery*. W. W. Norton, 2010.
-- Klein, Herbert S. *The Atlantic Slave Trade*. Cambridge University Press. تُراجع بيانات الطبعة المستخدمة قبل اعتمادها.
-- Lovejoy, Paul E. *Transformations in Slavery: A History of Slavery in Africa*. Cambridge University Press. تُراجع بيانات الطبعة المستخدمة.
-- منظمة العمل الدولية، اتفاقية العمل الجبري رقم 29 (1930) وبروتوكول 2014 الملحق بها.
-- الأمم المتحدة، بروتوكول منع وقمع ومعاقبة الاتجار بالأشخاص، وبخاصة النساء والأطفال (2000).
-- SlaveVoyages, *The Trans-Atlantic Slave Trade Database*، قاعدة بيانات بحثية؛ تاريخ الاطلاع والرابط وإصدار البيانات يثبتان في النسخة النهائية.
-
-> **ملاحظة توثيقية:** هذه قائمة مراجع أولية وليست ببليوغرافيا نهائية. يجب التحقق من بيانات الطبعات والترجمات والروابط وتواريخ الاطلاع، وإضافة الإحالات داخل المتن بعد مراجعة المصادر الأصلية.
-
 ## المبحث السادس: العبودية في العصور الوسطى وشبكات العالم القديم
 
 لا يصح أن تُقرأ العصور الوسطى باعتبارها فراغاً تاريخياً بين العبودية القديمة والاتجار الأطلسي الحديث. فقد استمرت أنظمة الاسترقاق في مناطق واسعة، وتداخلت فيها الحروب والتجارة والدبلوماسية والديون والطلب على الخدمة والعمل العسكري والمنزلي. وكانت طرق النقل والتبادل تربط البحر المتوسط والبحر الأسود والمحيط الهندي وشرق أفريقيا وأجزاء من آسيا وأوروبا، مع اختلاف كبير في المؤسسات والقواعد التي نظمت الأسر والبيع والعتق.
@@ -105,3 +92,16 @@
 - Bradley, Keith, and Paul Cartledge, eds. *The Cambridge World History of Slavery, Volume 1: The Ancient Mediterranean World*. Cambridge University Press, 2011. https://doi.org/10.1017/CHOL9780521840668
 - Vlassopoulos, Kostas. “Greek and Roman Slaveries: Methodological Issues.” In *The Oxford Handbook of Greek and Roman Slaveries*. Oxford University Press, 2024. https://doi.org/10.1093/oxfordhb/9780199575251.013.38
 - Diamantopoulos, Ioannis, Milan Prodanovic, and Kostas Vlassopoulos. “Recent Developments in the Historical Research of Ancient Slavery.” *The Classical Review* 75, no. 2 (2025): 297–302. https://doi.org/10.1017/S0009840X25000393
+
+## مراجع الفصل
+
+- Davis, David Brion. *The Problem of Slavery in Western Culture*. Cornell University Press, 1966.
+- Drescher, Seymour. *Abolition: A History of Slavery and Antislavery*. Cambridge University Press, 2009.
+- Foner, Eric. *The Fiery Trial: Abraham Lincoln and American Slavery*. W. W. Norton, 2010.
+- Klein, Herbert S. *The Atlantic Slave Trade*. Cambridge University Press. تُراجع بيانات الطبعة المستخدمة قبل اعتمادها.
+- Lovejoy, Paul E. *Transformations in Slavery: A History of Slavery in Africa*. Cambridge University Press. تُراجع بيانات الطبعة المستخدمة.
+- منظمة العمل الدولية، اتفاقية العمل الجبري رقم 29 (1930) وبروتوكول 2014 الملحق بها.
+- الأمم المتحدة، بروتوكول منع وقمع ومعاقبة الاتجار بالأشخاص، وبخاصة النساء والأطفال (2000).
+- SlaveVoyages, *The Trans-Atlantic Slave Trade Database*، قاعدة بيانات بحثية؛ تاريخ الاطلاع والرابط وإصدار البيانات يثبتان في النسخة النهائية.
+
+> **ملاحظة توثيقية:** هذه قائمة مراجع أولية وليست ببليوغرافيا نهائية. يجب التحقق من بيانات الطبعات والترجمات والروابط وتواريخ الاطلاع، وإضافة الإحالات داخل المتن بعد مراجعة المصادر الأصلية.
