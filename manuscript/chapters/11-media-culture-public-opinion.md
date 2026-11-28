@@ -57,17 +57,6 @@
 
 الإعلام قوة معرفية واقتصادية وسياسية، لكنه ليس قوة مطلقة ولا موحدة. وتصبح علاقته بالحرية عادلة عندما تكون مصادر التمويل معلومة، والتحرير مستقلاً، والمعلومات قابلة للتحقق، والأخطاء قابلة للتصحيح، والأصوات المتأثرة قادرة على الظهور. أما تحويل الإعلام إلى أداة احتكار للحقيقة أو إلى سوق يبيع الانتباه دون مساءلة فيضيق المجال العام ويضعف قدرة المواطنين على الحكم المستقل.
 
-## مراجع الفصل
-
-- McCombs, Maxwell. *Setting the Agenda: The Mass Media and Public Opinion*. 2nd ed., Polity, 2014.
-- Habermas, Jürgen. *The Structural Transformation of the Public Sphere*. 1962; English trans. 1989.
-- UNESCO. *Journalism, “Fake News” and Disinformation: Handbook for Journalism Education and Training*. 2018.
-- UNESCO. *The Chilling: Global Trends in Online Violence against Women Journalists*. 2021.
-- UNESCO. *Guidelines for the Governance of Digital Platforms*. 2023.
-
-- Ireton, Cherilyn, and Julie Posetti, eds. *Journalism, Fake News & Disinformation: Handbook for Journalism Education and Training*. UNESCO, 2018. ISBN 978-92-3-100281-6. https://www.unesco.org/en/articles/journalism-fake-news-disinformation
-- UNESCO. *Guidelines for the Governance of Digital Platforms*. 2023. https://www.unesco.org/en/internet-trust/guidelines
-
 ## المبحث الثامن: الصحافة المحلية والفئات غير الممثلة
 
 قد يتركز الإعلام الوطني في المدن الكبرى، بينما تقل التغطية المهنية لقضايا المناطق الطرفية والقرى والعمال المهاجرين والفئات التي لا تملك موارد للوصول إلى المنابر. ويؤدي هذا الخلل إلى فجوة في تعريف المشكلات العامة: ما لا يُرى إعلامياً قد لا يدخل بسهولة في أولويات السياسات.
@@ -119,3 +108,14 @@
 كما ينبغي أن تكون قواعد المنصات قابلة للفهم والطعن، وأن تتاح للباحثين بيانات مناسبة لدراسة أثر التوصية والإعلانات مع حماية الخصوصية، وأن تنشر تقارير شفافة عن الإشراف على المحتوى. ويجب أن تخضع الهيئات التنظيمية للمساءلة وألا تتحول إلى أدوات لمعاقبة النقد أو حماية السلطة من المساءلة.
 
 المجال العام التعددي لا يعني غياب الخلاف، بل وجود قواعد تسمح بإدارته دون احتكار المنبر أو إسكات المختلف. ويظل معيار النجاح هو قدرة المجتمع على الوصول إلى معلومات موثوقة، ومساءلة أصحاب النفوذ، وتمثيل التجارب المتنوعة، وتصحيح الأخطاء، مع صون حرية التعبير وحقوق الأفراد.
+
+## مراجع الفصل
+
+- McCombs, Maxwell. *Setting the Agenda: The Mass Media and Public Opinion*. 2nd ed., Polity, 2014.
+- Habermas, Jürgen. *The Structural Transformation of the Public Sphere*. 1962; English trans. 1989.
+- UNESCO. *Journalism, “Fake News” and Disinformation: Handbook for Journalism Education and Training*. 2018.
+- UNESCO. *The Chilling: Global Trends in Online Violence against Women Journalists*. 2021.
+- UNESCO. *Guidelines for the Governance of Digital Platforms*. 2023.
+
+- Ireton, Cherilyn, and Julie Posetti, eds. *Journalism, Fake News & Disinformation: Handbook for Journalism Education and Training*. UNESCO, 2018. ISBN 978-92-3-100281-6. https://www.unesco.org/en/articles/journalism-fake-news-disinformation
+- UNESCO. *Guidelines for the Governance of Digital Platforms*. 2023. https://www.unesco.org/en/internet-trust/guidelines
