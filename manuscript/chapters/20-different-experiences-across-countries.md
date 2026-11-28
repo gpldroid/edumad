@@ -135,8 +135,6 @@
 
 ## مراجع الفصل
 
-### مراجع وإحالات أولية
-
 - UNDP. *Human Development Report* (annual series).
 - UNDP and OPHI. *Global Multidimensional Poverty Index 2026: Statistical Update*. 2026. https://hdr.undp.org/content/2026-global-multidimensional-poverty-index.
 - World Bank. *World Development Report* (annual series; use country- and year-specific editions).
@@ -146,9 +144,7 @@
 ### إحالات البيانات المقارنة
 
 - World Bank. (2024). *World Development Report 2024: The Middle-Income Trap*. https://www.worldbank.org/en/publication/wdr2024.
-  - ملاحظة توثيقية: يدعم التقرير إطار «الاستثمار ثم استيعاب التكنولوجيا ثم الابتكار» والعدد التاريخي للاقتصادات التي انتقلت إلى فئة الدخل المرتفع منذ 1990؛ ولا يجوز تحويله إلى حكم سببي على بلد منفرد.
 - Haut-Commissariat au Plan (Maroc). (2025, 8 juillet). *Activité, emploi et chômage, résultats annuels 2024*. https://www.hcp.ma/Activite-emploi-et-chomage-resultats-annuels-2024_a4142.html.
-  - ملاحظة توثيقية: المصدر المباشر لأرقام خلق 82 ألف منصب صافٍ، والتفاوت الحضري/القروي، وارتفاع البطالة إلى 13.3% في 2024.
 - ILO. (2023). *The Rana Plaza disaster ten years on: What has changed?* https://webapps.ilo.org/infostories/en-GB/Stories/Country-Focus/rana-plaza.html .
 - ILO. (2017). *Final Independent Evaluation: RMG Programme Bangladesh*. https://webapps.ilo.org/ievaldiscovery/files/file/204493 .
 - World Bank. (2020). *Strengthening Conditional Cash Transfers and the Single Registry in Brazil*. https://www.worldbank.org/en/results/2020/04/22/strengthening-conditional-cash-transfers-and-the-single-registry-in-brazil .
