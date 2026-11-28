@@ -144,12 +144,8 @@
 - Sen, Amartya. *Inequality Reexamined*. Oxford: Clarendon Press, 1992.
 - Wright, Erik Olin. *Understanding Class*. London: Verso, 2015.
 
-> ملاحظة توثيقية: هذه قائمة تأسيسية وليست ببليوغرافيا نهائية. يجب مطابقة الطبعة المستخدمة فعلياً وإضافة أرقام الصفحات لكل إحالة مباشرة أو فكرة محددة قبل اعتماد الفصل.
-
-### مراجع إضافية للتحقق
 
 - Atkinson, Anthony B. *Inequality: What Can Be Done?* Cambridge, MA: Harvard University Press, 2015.
 - OECD. *In It Together: Why Less Inequality Benefits All*. Paris: OECD Publishing, 2015. https://doi.org/10.1787/9789264235120-en
 - World Inequality Lab. *World Inequality Report 2022*. https://wir2022.wid.world/
 
-> ملاحظة تحريرية: المباحث المضافة توسعة تحليلية جديدة، وتحتاج مطابقة الإحالات داخل المتن ببيانات الطبعات والصفحات قبل الإصدار النهائي.

@@ -31,7 +31,8 @@ const required = [
   "manuscript/introduction.md",
   ...chapterFiles.map((f) => join("manuscript", "chapters", f)),
   "manuscript/conclusion.md",
-  "index.html"
+  "index.html",
+  "scripts/plain-links.lua"
 ];
 const errors = [];
 let bibliographyChecks = 0;
@@ -98,6 +99,31 @@ for (const file of required) {
   }
 }
 
+const readerFiles = required.filter((file) => file.endsWith(".md"));
+const editorialMarkers = [
+  "مراجع إضافية للتحقق",
+  "مراجع أولية للتحقق",
+  "ملاحظة توثيقية",
+  "ملاحظة تحريرية",
+  "تنبيه تحريري",
+  "حالة النص:",
+  "حالة هذه النسخة:",
+  "عنوان مؤقت"
+];
+for (const file of readerFiles) {
+  const content = readFileSync(join(root, file), "utf8");
+  for (const marker of editorialMarkers) {
+    if (content.includes(marker)) {
+      errors.push(`Internal editorial marker remains in reader manuscript ${file}: ${marker}`);
+    }
+  }
+}
+
+const plainLinksFilter = readFileSync(join(root, "scripts/plain-links.lua"), "utf8");
+if (!plainLinksFilter.includes("function Link(link)") || !plainLinksFilter.includes("label == target") || !plainLinksFilter.includes("return {}") || !plainLinksFilter.includes("return link.content") || !plainLinksFilter.includes("function Str(el)") || !plainLinksFilter.includes("https?://%S+")) {
+  errors.push("PDF link filter must omit bare external URLs while preserving citation labels and ordinary DOI text.");
+}
+
 const html = readFileSync(join(root, "index.html"), "utf8");
 for (const id of ["intro", "conclusion"]) {
   if (!html.includes(`id:"${id}"`) && !html.includes(`id:'${id}'`) && !html.includes(`href="#${id}"`)) {
@@ -112,6 +138,9 @@ if (!html.includes('id="references"') && !html.includes("id='references'")) {
 }
 if (!html.includes('id="content"') && !html.includes("id='content'")) {
   errors.push("Reader content container #content is missing.");
+}
+if (!html.includes("renderer.link") || !html.includes("marked.use({renderer})")) {
+  errors.push("Reader must render external Markdown links as plain text, not clickable web navigation.");
 }
 
 if (errors.length) {

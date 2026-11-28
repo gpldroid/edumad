@@ -1,6 +1,5 @@
 # الفصل الثاني: التحولات الفلسفية لمفهوم الحرية
 
-> **حالة النص:** إعادة بناء تحريرية جديدة أُعدّت استناداً إلى عنوان الفصل ومحاور الكتاب المثبتة في الأرشيف. لا تمثل نقلاً حرفياً عن مسودة سابقة، وتحتاج إلى مراجعة علمية وتوثيقية نهائية.
 
 ## تمهيد: الحرية سؤال يتجاوز غياب القيود
 
@@ -117,8 +116,6 @@
 
 ## مراجع الفصل
 
-### مراجع أولية للتحقق
-
 - Berlin, Isaiah. *Two Concepts of Liberty*. Inaugural Lecture, University of Oxford, 1958; reprinted in *Four Essays on Liberty*. Oxford University Press, 1969.
 - Kant, Immanuel. *Groundwork of the Metaphysics of Morals* (1785), Akademie-Ausgabe, vol. 4, pp. 429, 440. تُحدد الترجمة والطبعة المعتمدتان في النسخة النهائية.
 - Locke, John. *Two Treatises of Government* (1689), Second Treatise, §§ 4, 6, 27, 123–131.
@@ -127,5 +124,4 @@
 - Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
 - Skinner, Quentin. *Liberty before Liberalism*. Cambridge University Press, 1998.
 
-> **ملاحظة توثيقية:** المراجع أعلاه تأسيسية أولية. يجب التحقق من الطبعات والترجمات وبيانات النشر، وإضافة إحالات دقيقة إلى النصوص الأصلية قبل اعتماد النسخة النهائية.
 
