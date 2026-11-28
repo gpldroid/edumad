@@ -134,4 +134,3 @@
 - Leika, Mindaugas, and Daniela Marchettini. (2017). *A Generalized Framework for the Assessment of Household Financial Vulnerability*. IMF Working Paper 17/228. https://doi.org/10.5089/9781484322352.001.
 - World Bank. (2026). *Addressing Financial Consumer Over-Indebtedness*. Prosperity Insight Series, Report No. 215003. https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099092126123028499.
 
-> ملاحظة توثيقية: هذه مراجع تأسيسية للفصل، وليست بديلاً عن الإحالة الموضعية. يجب ربط كل فكرة منقولة بمصدرها وتحديد الصفحات في الطبعة المستخدمة، كما يجب إضافة مصادر قانونية وتنظيمية خاصة بكل بلد عند مناقشة حقوق المقترض والتحصيل والإعسار.
