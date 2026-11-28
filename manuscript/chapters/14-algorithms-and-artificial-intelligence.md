@@ -55,14 +55,6 @@
 
 الخوارزميات ليست محايدة بصورة تلقائية ولا ظالمة بطبيعتها. إنها أنظمة بشرية التصميم تعمل داخل مؤسسات وأسواق وعلاقات قوة. ويصبح الذكاء الاصطناعي أداة لتحسين الحياة حين يخضع للمساءلة والاختبار والشفافية والحقوق، ويتحول إلى مصدر هيمنة حين تُترك قراراته بلا تفسير أو اعتراض أو مسؤول واضح.
 
-## مراجع الفصل
-
-- UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. Adopted 23 November 2021; published 2022.
-- OECD. *How Widespread Is Algorithmic Management in Workplaces?* OECD Publishing, 2025. DOI: 10.1787/cda7a114-en.
-- NIST. *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. 2023. DOI: 10.6028/NIST.AI.100-1.
-- O'Neil, Cathy. *Weapons of Math Destruction*. Crown, 2016.
-- Eubanks, Virginia. *Automating Inequality*. St. Martin's Press, 2018.
-
 ## المبحث الثامن: التقييم المستقل ودورة حياة النظام
 
 لا يكفي اختبار النموذج قبل إطلاقه؛ فقد تتغير البيانات وسلوك المستخدمين والظروف الاجتماعية بعد النشر. لذلك ينبغي أن تمتد المراجعة إلى دورة حياة النظام: تحديد الغرض، وجمع البيانات، والتدريب، والاختبار، والنشر، والمراقبة، والتحديث، والإيقاف عند الضرورة. ويجب تسجيل النسخ والتغييرات والحوادث حتى يمكن إعادة بناء سبب القرار.
@@ -98,6 +90,14 @@
 تكون الأتمتة موضع رفض أو تقييد شديد عندما تتعلق بقرار يمس الحرية أو السلامة أو الحقوق الأساسية، ولا تتوفر بيانات كافية أو وسيلة تفسير أو مراجعة بشرية مستقلة أو سبيل فعال للطعن. وفي هذه الحالات لا يكفي تحسين الدقة الإجمالية؛ إذ قد يخفي المتوسط أخطاء جسيمة تقع على مجموعة صغيرة.
 
 ويجب أن يكون التدخل البشري حقيقياً: وقت كافٍ، وصلاحية لرفض النتيجة، ومعرفة بحدود النظام، وتوثيق أسباب القرار. أما المراجع الذي يضغط «موافقة» آلياً بسبب ضغط العمل أو غياب التدريب فلا يحقق ضمانة ذات معنى. وتظل كفاءة النظام معياراً مهماً، لكنها لا تعلو على المشروعية والإنصاف وحق الإنسان في معرفة القرار والطعن فيه.
+
+## مراجع الفصل
+
+- UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. Adopted 23 November 2021; published 2022.
+- OECD. *How Widespread Is Algorithmic Management in Workplaces?* OECD Publishing, 2025. DOI: 10.1787/cda7a114-en.
+- NIST. *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. 2023. DOI: 10.6028/NIST.AI.100-1.
+- O'Neil, Cathy. *Weapons of Math Destruction*. Crown, 2016.
+- Eubanks, Virginia. *Automating Inequality*. St. Martin's Press, 2018.
 
 ## الإحالة القانونية الأولية
 
