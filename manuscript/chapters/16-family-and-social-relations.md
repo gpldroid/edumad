@@ -91,17 +91,6 @@
 
 فالحرية لا تبدأ فقط عندما يتحرر الإنسان من القيود السياسية والاقتصادية الكبرى؛ بل تبدأ أيضاً عندما يستطيع أن يعيش داخل أسرته وعلاقاته من دون خوف، وأن يختلف من دون أن يُهدد، وأن يحب من دون أن يفقد ذاته، وأن يتحمل المسؤولية من دون أن يتحول إلى أداة في خدمة إرادة الآخرين.
 
-## مراجع الفصل
-
-1. International Labour Organization (2018). *Care Work and Care Jobs for the Future of Decent Work*. Geneva: ILO.
-2. International Labour Organization (2024). *The Impact of Care Responsibilities on Women’s Labour Force Participation*. Statistical Brief, October 2024.
-3. World Health Organization. *Violence Against Women*. Fact sheet.
-4. OECD (2023). *SIGI 2023 Global Report*. OECD Publishing.
-5. OECD (2019). *SIGI 2019 Global Report: Discrimination in the Family*. OECD Publishing.
-6. Addati, L., Cattaneo, U., Esquivel, V., & Valarino, I. (2018). *Care Work and Care Jobs for the Future of Decent Work*. International Labour Office.
-
-**ملاحظة تحريرية:** هذه مسودة فصل، ومراجعه أولية؛ يلزم التحقق من بيانات الطبعات والصفحات والإحالات المباشرة قبل إغلاق النسخة العلمية النهائية.
-
 ## المبحث الخامس: مقارنة تطبيقية — اقتصاد الرعاية وتوزيع السلطة داخل الأسرة
 
 تكشف دراسات الرعاية أن العمل المنزلي ورعاية الأطفال وكبار السن والأشخاص ذوي الإعاقة ليست أنشطة هامشية؛ بل شروط لاستمرار الاقتصاد والحياة الاجتماعية. وعندما تتحملها فئة واحدة دون اعتراف أو توزيع أو خدمات مساندة، تتحول المسؤولية إلى تفاوت في الوقت والدخل والفرص. ولا يعني ذلك أن الرعاية في ذاتها استغلال؛ فهي علاقة إنسانية أساسية، لكن عدالتها تتطلب الاعتراف بقيمتها وتوزيع أعبائها وإتاحة الدعم لمن يقدمها ومن يتلقاها.
@@ -121,3 +110,14 @@
 تتطلب دراسة العلاقات الأسرية حساسية أخلاقية خاصة، لأن المقابلات قد تكشف معلومات تعرض المشاركين للخطر أو الوصم. يجب الحصول على موافقة مستنيرة، وعدم إجراء مقابلة بحضور الشخص الذي قد يمارس السيطرة، وتخزين البيانات بأمان، وإخفاء الهوية، وإتاحة الانسحاب من الدراسة. ولا ينبغي جمع تفاصيل لا تخدم سؤال البحث.
 
 كما يجب عدم استخدام عينة صغيرة أو شهادة فردية لتعميم حكم على مجتمع أو ثقافة. وتُقارن الحالات وفق أسئلة مشتركة حول توزيع القرار والموارد والعمل والرعاية وحرية الرفض والوصول إلى الدعم، مع احترام الاختلافات القانونية والاجتماعية. بهذه الضوابط يمكن تحليل الهيمنة دون تحويل البحث نفسه إلى مصدر جديد للضرر.
+
+## مراجع الفصل
+
+1. International Labour Organization (2018). *Care Work and Care Jobs for the Future of Decent Work*. Geneva: ILO.
+2. International Labour Organization (2024). *The Impact of Care Responsibilities on Women’s Labour Force Participation*. Statistical Brief, October 2024.
+3. World Health Organization. *Violence Against Women*. Fact sheet.
+4. OECD (2023). *SIGI 2023 Global Report*. OECD Publishing.
+5. OECD (2019). *SIGI 2019 Global Report: Discrimination in the Family*. OECD Publishing.
+6. Addati, L., Cattaneo, U., Esquivel, V., & Valarino, I. (2018). *Care Work and Care Jobs for the Future of Decent Work*. International Labour Office.
+
+**ملاحظة تحريرية:** هذه مسودة فصل، ومراجعه أولية؛ يلزم التحقق من بيانات الطبعات والصفحات والإحالات المباشرة قبل إغلاق النسخة العلمية النهائية.
