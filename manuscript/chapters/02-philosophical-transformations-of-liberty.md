@@ -91,18 +91,6 @@
 
 والنتيجة التي يعتمدها هذا الكتاب هي أن الحرية لا تُقاس فقط بما يُسمح للفرد بفعله، بل أيضاً بمدى تحرره من سلطة اعتباطية، وبامتلاكه قدرة فعلية على الاختيار والاعتراض وتوجيه حياته. بهذا المعيار يمكن تحليل التبعية الاقتصادية والسياسية والثقافية والرقمية من دون مساواتها تلقائياً بالعبودية القانونية. ويمهد هذا الفهم للانتقال إلى دراسة البنى الاقتصادية والمالية التي قد تجعل الاستقلال الشكلي هشاً أمام الحاجة والديون واختلال القوة التفاوضية.
 
-## مراجع الفصل
-
-- Berlin, Isaiah. *Two Concepts of Liberty*. Inaugural Lecture, University of Oxford, 1958.
-- Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. 1785. تُحدد الترجمة والطبعة المعتمدتان في النسخة النهائية.
-- Locke, John. *Two Treatises of Government*. 1689.
-- Pettit, Philip. *Republicanism: A Theory of Freedom and Government*. Oxford University Press, 1997.
-- Rousseau, Jean-Jacques. *Du contrat social*. 1762.
-- Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
-- Skinner, Quentin. *Liberty before Liberalism*. Cambridge University Press, 1998.
-
-> **ملاحظة توثيقية:** المراجع أعلاه تأسيسية أولية. يجب التحقق من الطبعات والترجمات وبيانات النشر، وإضافة إحالات دقيقة إلى النصوص الأصلية قبل اعتماد النسخة النهائية.
-
 ## المبحث التاسع: تناقضات خطاب الحرية في التاريخ الحديث
 
 لم يتطور مفهوم الحرية في التاريخ الحديث داخل فضاء متجانس؛ فقد صاحبت المطالبة بحقوق الفرد والمواطنة توسعات استعمارية وأنظمة استعباد واستبعاد سياسي. وفي بعض السياقات، جرى إعلان مبادئ عامة عن الحرية والمساواة، بينما استُثنيت منها جماعات واسعة بسبب الجنس أو الأصل أو الملكية أو الوضع القانوني. ويكشف هذا التناقض أن اللغة الكونية للحقوق لا تضمن وحدها شمول تطبيقها.
@@ -129,3 +117,15 @@
 
 ### مراجع إضافية للتحقق
 - Berlin, Isaiah. “Two Concepts of Liberty.” In *Four Essays on Liberty*. Oxford University Press, 1969.
+
+## مراجع الفصل
+
+- Berlin, Isaiah. *Two Concepts of Liberty*. Inaugural Lecture, University of Oxford, 1958.
+- Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. 1785. تُحدد الترجمة والطبعة المعتمدتان في النسخة النهائية.
+- Locke, John. *Two Treatises of Government*. 1689.
+- Pettit, Philip. *Republicanism: A Theory of Freedom and Government*. Oxford University Press, 1997.
+- Rousseau, Jean-Jacques. *Du contrat social*. 1762.
+- Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
+- Skinner, Quentin. *Liberty before Liberalism*. Cambridge University Press, 1998.
+
+> **ملاحظة توثيقية:** المراجع أعلاه تأسيسية أولية. يجب التحقق من الطبعات والترجمات وبيانات النشر، وإضافة إحالات دقيقة إلى النصوص الأصلية قبل اعتماد النسخة النهائية.
