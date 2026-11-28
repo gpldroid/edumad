@@ -28,8 +28,8 @@ jobs:
       - name: Install Pandoc, XeLaTeX, and Arabic fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-arabic fonts-noto-core poppler-utils
-          fc-match "Noto Naskh Arabic"
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-arabic fonts-noto-core fonts-hosny-amiri fonts-dejavu-core poppler-utils
+          fc-match "Amiri"
           pandoc --version
           xelatex --version
 
@@ -43,13 +43,14 @@ jobs:
             --pdf-engine=xelatex \
             --toc --toc-depth=2 \
             --metadata title="العبودية المعاصرة" \
+            --metadata subtitle="قراءة في بنية السيطرة الحديثة وآليات الخضوع واستعادة الحرية الإنسانية" \
             --metadata author="عماد لمراني" \
             --metadata lang=ar \
             -V lang=ar \
             -V dir=rtl \
-            -V mainfont="Noto Naskh Arabic" \
-            -V sansfont="Noto Sans Arabic" \
-            -V monofont="Noto Sans Mono" \
+            -V mainfont="Amiri" \
+            -V sansfont="Amiri" \
+            -V monofont="DejaVu Sans Mono" \
             -V geometry:margin=2.4cm \
             -V papersize=a4 \
             -V fontsize=12pt \
