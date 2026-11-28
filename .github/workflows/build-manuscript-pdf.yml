@@ -43,6 +43,7 @@ jobs:
             --pdf-engine=xelatex \
             --include-in-header=scripts/pdf-header.tex \
             --lua-filter=scripts/ltr-references.lua \
+            --lua-filter=scripts/plain-links.lua \
             --metadata title-meta="Contemporary Slavery" \
                         --metadata author-meta="Imad Limrani" \
             --metadata lang=ar \
