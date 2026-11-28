@@ -136,12 +136,6 @@
 
 ويشمل التقييم أيضاً آثاراً غير مقصودة، مثل ارتفاع أسعار خدمة بسبب زيادة الطلب دون توسيع العرض، أو استبعاد أسر لا تملك الوثائق، أو خلق اعتماد إداري على وسيط. وينبغي نشر النتائج والقيود، وإشراك المستفيدين في تفسيرها، وتعديل البرنامج وفق الأدلة. بذلك تصبح مكافحة الفقر عملية تعلم ومساءلة عامة، لا مجرد إعلان عن مبادرة.
 
-### مراجع إضافية للتحقق
-- World Bank. *Poverty and Shared Prosperity 2022: Correcting Course*. Washington, DC: World Bank, 2022. https://www.worldbank.org/en/publication/poverty-and-shared-prosperity
-- World Bank. *World Development Report 2016: Digital Dividends*. Washington, DC: World Bank, 2016. https://www.worldbank.org/en/publication/wdr2016
-
-> ملاحظة تحريرية: المباحث المضافة توسعة تحليلية جديدة، وتحتاج مطابقة الإحالات داخل المتن ببيانات الطبعات والصفحات قبل الإصدار النهائي.
-
 ## مراجع الفصل
 
 - Sen, Amartya. *Development as Freedom*. New York: Alfred A. Knopf, 1999. يُستخدم لتأطير التنمية بوصفها توسيعاً للحريات والقدرات، مع ضرورة مراجعة أرقام الصفحات وفق الطبعة المعتمدة.
@@ -151,3 +145,10 @@
 - International Labour Organization (ILO). *Decent Work Deficit: A Global Challenge*. Report of the Director-General, International Labour Conference, 89th Session, 2001. https://www.ilo.org/public/english/standards/relm/ilc/ilc89/rep-i-a.htm
 
 > ملاحظة توثيقية: أُدرجت بيانات المصدر والرابط حيث أمكن التحقق منها. قبل الإصدار النهائي، يجب تثبيت الطبعات المستخدمة فعلياً، وإضافة أرقام الصفحات لكل إحالة محددة، ومراجعة الترجمة العربية للعناوين إذا استُخدمت في قائمة مراجع عربية.
+
+### مراجع إضافية للتحقق
+
+- World Bank. *Poverty and Shared Prosperity 2022: Correcting Course*. Washington, DC: World Bank, 2022. https://www.worldbank.org/en/publication/poverty-and-shared-prosperity
+- World Bank. *World Development Report 2016: Digital Dividends*. Washington, DC: World Bank, 2016. https://www.worldbank.org/en/publication/wdr2016
+
+> ملاحظة تحريرية: المباحث المضافة توسعة تحليلية جديدة، وتحتاج مطابقة الإحالات داخل المتن ببيانات الطبعات والصفحات قبل الإصدار النهائي.
