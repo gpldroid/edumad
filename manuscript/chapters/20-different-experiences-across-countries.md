@@ -95,13 +95,15 @@
 
 ## مراجع الفصل
 
+### مراجع وإحالات أولية
+
 - UNDP. *Human Development Report* (annual series).
 - UNDP and OPHI. *Global Multidimensional Poverty Index 2026: Statistical Update*. 2026.
 - World Bank. *World Development Report* (annual series; use country- and year-specific editions).
 - Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
 - Rodrik, Dani. *The Globalization Paradox*. W. W. Norton, 2011.
 
-## إحالات البيانات المقارنة
+### إحالات البيانات المقارنة
 
 - World Bank, *World Development Report 2024: The Middle-Income Trap* (2024). https://www.worldbank.org/en/publication/wdr2024 . يدعم إطار «الاستثمار ثم استيعاب التكنولوجيا ثم الابتكار» والعدد التاريخي للاقتصادات التي انتقلت إلى فئة الدخل المرتفع منذ 1990؛ ويجب عدم تحويله إلى حكم سببي على بلد منفرد.
 - Haut-Commissariat au Plan (Maroc), «Activité, emploi et chômage, résultats annuels 2024», publié le 8 juillet 2025. https://www.hcp.ma/Activite-emploi-et-chomage-resultats-annuels-2024_a4142.html . المصدر المباشر لأرقام خلق 82 ألف منصب صافٍ، والتفاوت الحضري/القروي، وارتفاع البطالة إلى 13.3% في 2024.
