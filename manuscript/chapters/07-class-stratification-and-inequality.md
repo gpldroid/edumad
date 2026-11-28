@@ -97,16 +97,6 @@
 
 ومواجهة التفاوت لا تتطلب إلغاء الاختلافات أو اختزال المجتمع في صراع مبسط، بل منع تحول الفوارق إلى علاقات سيطرة دائمة. ويقتضي ذلك تعليمًا جيداً، وأسواقاً تنافسية، وعملاً لائقاً، وحماية اجتماعية، وشفافية في صنع القرار، وبيانات تكشف الفجوات دون انتهاك الخصوصية. وتظل الدقة المفاهيمية ضرورية: فالطبقية ليست مرادفاً للفقر، والتفاوت ليس دليلاً تلقائياً على العبودية، لكن اختلال القوة قد يصبح بيئة تستغل فيها الحاجة لتقييد حرية الإنسان.
 
-## مراجع الفصل
-
-- Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. Translated by Richard Nice. Cambridge, MA: Harvard University Press, 1984. (الأصل الفرنسي 1979).
-- Piketty, Thomas. *Capital in the Twenty-First Century*. Translated by Arthur Goldhammer. Cambridge, MA: Belknap Press of Harvard University Press, 2014. (الأصل الفرنسي 2013).
-- Sen, Amartya. *Inequality Reexamined*. Oxford: Clarendon Press, 1992.
-- Wright, Erik Olin. *Understanding Class*. London: Verso, 2015.
-
-> ملاحظة توثيقية: هذه قائمة تأسيسية وليست ببليوغرافيا نهائية. يجب مطابقة الطبعة المستخدمة فعلياً وإضافة أرقام الصفحات لكل إحالة مباشرة أو فكرة محددة قبل اعتماد الفصل.
-
-
 ## المبحث العاشر: الثروة لا الدخل وحده — تراكم الأصول وتفاوت المخاطر
 
 يختلف الدخل عن الثروة من حيث الطبيعة والوظيفة. فالدخل تدفق يتجدد خلال فترة زمنية، بينما تمثل الثروة مخزوناً من الأصول والحقوق والموارد بعد خصم الالتزامات. وتتيح الثروة لصاحبها تحمل فترات البطالة أو المرض، وتمويل التعليم أو السكن، والاستثمار، ومساعدة الأبناء، وانتظار فرصة أفضل. أما من لا يملك مدخرات أو أصولاً فقد يضطر إلى قبول شروط أقل ملاءمة بسبب حاجته الفورية إلى السيولة.
@@ -147,7 +137,17 @@
 
 ويخلص هذا المنهج إلى أن الطبقة ليست قدراً ثابتاً، لكنها ليست مجرد نتيجة لاختيارات فردية أيضاً. إنها بنية تتشكل عبر الملكية والعمل والتعليم والسكن والسياسة والثقافة، ويمكن للمؤسسات أن تعيد إنتاجها أو تفتح مسارات لتغييرها. ويظل السؤال الحاسم هو ما إذا كانت الفوارق تسمح بتعدد أنماط الحياة والاختيار، أم تتحول إلى سلطة دائمة تحرم بعض الفئات من القدرة على الرفض والمشاركة.
 
-## مراجع إضافية للتحقق
+## مراجع الفصل
+
+- Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. Translated by Richard Nice. Cambridge, MA: Harvard University Press, 1984. (الأصل الفرنسي 1979).
+- Piketty, Thomas. *Capital in the Twenty-First Century*. Translated by Arthur Goldhammer. Cambridge, MA: Belknap Press of Harvard University Press, 2014. (الأصل الفرنسي 2013).
+- Sen, Amartya. *Inequality Reexamined*. Oxford: Clarendon Press, 1992.
+- Wright, Erik Olin. *Understanding Class*. London: Verso, 2015.
+
+> ملاحظة توثيقية: هذه قائمة تأسيسية وليست ببليوغرافيا نهائية. يجب مطابقة الطبعة المستخدمة فعلياً وإضافة أرقام الصفحات لكل إحالة مباشرة أو فكرة محددة قبل اعتماد الفصل.
+
+### مراجع إضافية للتحقق
+
 - Atkinson, Anthony B. *Inequality: What Can Be Done?* Cambridge, MA: Harvard University Press, 2015.
 - OECD. *In It Together: Why Less Inequality Benefits All*. Paris: OECD Publishing, 2015. https://doi.org/10.1787/9789264235120-en
 - World Inequality Lab. *World Inequality Report 2022*. https://wir2022.wid.world/

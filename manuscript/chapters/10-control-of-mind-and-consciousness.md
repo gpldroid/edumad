@@ -63,17 +63,6 @@
 
 تتخذ السيطرة على الوعي صوراً متعددة، من التنشئة المغلقة إلى التلاعب والدعاية والخوف وتصميم البيئات الرقمية. غير أن الوعي ليس مساحة خالية من الفاعلية؛ فهو قابل للنقد والتعلم والمقاومة. ويبدأ التحرر حين يستطيع الفرد الوصول إلى المعرفة، وفهم مصادر التأثير، ومراجعة المعايير، والاعتراض دون خوف غير مشروع. بذلك يصبح السؤال ليس كيف نمنع كل تأثير اجتماعي، بل كيف نجعل التأثير شفافاً وقابلاً للنقد، ونمنع تحوله إلى سلطة اعتباطية.
 
-## مراجع وإحالات أولية
-
-- Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. 1975; English trans. 1977.
-- Arendt, Hannah. *The Origins of Totalitarianism*. 1951.
-- Sunstein, Cass R. *#Republic: Divided Democracy in the Age of Social Media*. Princeton University Press, 2017.
-- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021.
-- UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. Adopted 23 November 2021.
-- ينبغي استكمال أرقام الصفحات والطبعات المستخدمة فعلياً عند إدراج اقتباسات مباشرة؛ لم تُدرج اقتباسات حرفية في هذا الفصل.
-
-- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
-
 ## المبحث الثامن: قراءة تطبيقية لآليات التأثير
 
 يمكن تحليل أي حالة ادعاءً للسيطرة على الوعي عبر أربعة مستويات متكاملة. المستوى الأول هو بنية الرسالة: ما الادعاء؟ وما الأدلة؟ وما المعلومات المحذوفة؟ والثاني هو بنية المرسل: من ينتج الرسالة ويمولها ويوزعها، وما مصالحه؟ والثالث هو بنية التلقي: ما المعرفة السابقة لدى الجمهور، وما الضغوط التي تؤثر في استقباله؟ والرابع هو بنية الأثر: هل تغيرت فرص الاعتراض أو الوصول إلى المعلومات أو اتخاذ القرار؟
@@ -87,7 +76,6 @@
 يمكن تقييم البيئة المعرفية عبر مؤشرات نوعية وكمية، مثل تعدد مصادر المعلومات، وشفافية التمويل، واستقلال المؤسسات التعليمية والإعلامية، وحماية الباحثين والصحفيين، وسهولة الوصول إلى البيانات العامة، ووجود تعليم إعلامي، وفعالية تصحيح الأخطاء. ولا يكفي عدّ القنوات أو المواقع؛ فقد تتعدد المنابر مع تركز الملكية أو التمويل أو مصادر الأخبار.
 
 كما ينبغي قياس قدرة الناس على الاعتراض دون انتقام، ووجود قنوات مستقلة للشكاوى، ومدى إتاحة المعلومات بلغة مفهومة. وتظل المؤشرات أدوات للمراجعة لا أحكاماً نهائية؛ إذ تحتاج إلى تفسير في ضوء السياق والمؤسسات والحقوق.
-
 
 ## المبحث العاشر: هندسة الاختيار والبيئات المؤثرة
 
@@ -130,12 +118,21 @@
 
 وعليه، فإن مواجهة السيطرة على الوعي لا تكون بحظر كل تأثير أو بتصنيف المخالفين باعتبارهم ضحايا تلاعب، بل ببناء بيئة تجعل التأثير قابلاً للكشف والنقد، وتمنح المتلقي أدوات لفهمه ورفضه، وتحاسب من يخفي المعلومات أو يستغل الضعف أو يعرقل حرية الاختيار. وبهذا يرتبط هذا الفصل بالفصول التالية عن الإعلام والهوية والبيانات والخوارزميات، دون أن يحل محل تحليلها المتخصص.
 
-## مراجع إضافية للتحقق
+## مراجع الفصل
+
+### مراجع وإحالات أولية
+
+- Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. 1975; English trans. 1977.
+- Arendt, Hannah. *The Origins of Totalitarianism*. 1951.
+- Sunstein, Cass R. *#Republic: Divided Democracy in the Age of Social Media*. Princeton University Press, 2017.
+- UNESCO. (2021). *Media and information literate citizens: Think critically, click wisely!* ISBN 978-92-3-100448-3. https://www.unesco.org/en/articles/media-and-information-literate-citizens
+- UNESCO. (2021, November 23). *Recommendation on the ethics of artificial intelligence*. https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence
+### مراجع إضافية للتحقق
 
 - Cialdini, Robert B. *Influence: The Psychology of Persuasion*. Revised edition. Harper Business, 2006.
 - Sunstein, Cass R. *The Ethics of Influence: Government in the Age of Behavioral Science*. Cambridge University Press, 2016.
 - Thaler, Richard H., and Cass R. Sunstein. *Nudge: Improving Decisions about Health, Wealth, and Happiness*. Yale University Press, 2008.
 - UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
-- OECD. *Dark Commercial Patterns*. OECD Digital Economy Papers, 2022. https://doi.org/10.1787/44f5e846-en
+- OECD. (2022). *Dark commercial patterns* (OECD Digital Economy Papers). https://doi.org/10.1787/44f5e846-en
 
 > ملاحظة توثيقية: أضيفت هذه المراجع بوصفها مراجع تأسيسية مقترحة للفحص. يجب مطابقة الطبعة والصفحات وإضافة الإحالات الموضعية عند الاستشهاد التفصيلي؛ ولا تُعامل القائمة وحدها بوصفها تحققاً نهائياً لكل فقرة.

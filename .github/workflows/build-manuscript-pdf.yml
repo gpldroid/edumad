@@ -1,0 +1,75 @@
+name: Build manuscript review PDF
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+    paths:
+      - "manuscript/**"
+      - "scripts/build-manuscript.mjs"
+      - ".github/workflows/build-manuscript-pdf.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Compile Arabic manuscript proof
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Pandoc, XeLaTeX, and Arabic fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-arabic fonts-noto-core fonts-hosny-amiri fonts-dejavu-core poppler-utils
+          fc-match "Amiri"
+          pandoc --version
+          xelatex --version
+
+      - name: Assemble manuscript
+        run: node scripts/build-manuscript.mjs
+
+      - name: Compile PDF
+        run: |
+          pandoc dist/edumad-manuscript-review.md \
+            --from markdown+raw_tex \
+            --pdf-engine=xelatex \
+            --include-in-header=scripts/pdf-header.tex \
+            --lua-filter=scripts/ltr-references.lua \
+            --metadata title-meta="Contemporary Slavery" \
+                        --metadata author-meta="Imad Limrani" \
+            --metadata lang=ar \
+            -V lang=ar \
+            -V dir=rtl \
+            -V mainfont="Amiri" \
+            -V sansfont="Amiri" \
+            -V monofont="DejaVu Sans Mono" \
+            -V geometry:margin=2.4cm \
+            -V papersize=a4 \
+            -V fontsize=12pt \
+            -V documentclass=book \
+            -V classoption=openany \
+            -o dist/edumad-manuscript-review.pdf
+
+      - name: Verify PDF output
+        run: |
+          test -s dist/edumad-manuscript-review.pdf
+          file dist/edumad-manuscript-review.pdf
+          pdfinfo dist/edumad-manuscript-review.pdf | head -20
+
+      - name: Upload review proof
+        uses: actions/upload-artifact@v4
+        with:
+          name: edumad-manuscript-review-pdf
+          path: |
+            dist/edumad-manuscript-review.pdf
+            dist/edumad-manuscript-review.md
+          if-no-files-found: error
+          retention-days: 14
