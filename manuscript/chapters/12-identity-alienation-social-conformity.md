@@ -93,6 +93,8 @@
 
 ## مراجع الفصل
 
+### مراجع وإحالات أولية
+
 - Marx, Karl. *Economic and Philosophic Manuscripts of 1844*.
 - Goffman, Erving. *The Presentation of Self in Everyday Life*. 1956/1959.
 - Honneth, Axel. *The Struggle for Recognition*. 1992; English trans. 1995.
