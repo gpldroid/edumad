@@ -131,4 +131,3 @@
 - UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
 - OECD. (2022). *Dark commercial patterns* (OECD Digital Economy Papers). https://doi.org/10.1787/44f5e846-en
 
-> ملاحظة توثيقية: أضيفت هذه المراجع بوصفها مراجع تأسيسية مقترحة للفحص. يجب مطابقة الطبعة والصفحات وإضافة الإحالات الموضعية عند الاستشهاد التفصيلي؛ ولا تُعامل القائمة وحدها بوصفها تحققاً نهائياً لكل فقرة.
