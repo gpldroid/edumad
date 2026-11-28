@@ -268,7 +268,7 @@
 14. International Labour Organization. (2024). *Heat at Work: Implications for Safety and Health*. https://www.ilo.org/publications/heat-work-implications-safety-and-health.
 15. World Health Organization & World Meteorological Organization. (2025). *Climate Change and Workplace Heat Stress: Technical Report and Guidance*. https://www.who.int/publications/i/item/9789240099814.
 16. World Health Organization & International Labour Organization. (2021). *Long Working Hours and Ischaemic Heart Disease and Stroke: Global, Regional and National Burdens*. https://www.who.int/news-room/questions-and-answers/item/global-regional-and-national-burdens-of-ischemic-heart-disease-and-stroke-attributable-to-exposure-to-long-working-hours-for-194-countries-2000-2016.
-11. United Nations. (1966). *International Covenant on Economic, Social and Cultural Rights*.
-12. International Labour Organization. (1930). *Hours of Work (Commerce and Offices) Convention, 1930 (No. 30)*.
+17. United Nations. (1966). *International Covenant on Economic, Social and Cultural Rights*.
+18. International Labour Organization. (1930). *Hours of Work (Commerce and Offices) Convention, 1930 (No. 30)*.
 
 **ملاحظة تحريرية:** هذه مسودة فصل ومراجعها أولية؛ يلزم التحقق من بيانات الطبعات والصفحات والإحالات المباشرة قبل إغلاق النسخة العلمية النهائية.
