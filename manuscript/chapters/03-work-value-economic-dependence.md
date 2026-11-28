@@ -1,6 +1,5 @@
 # الفصل الثالث: العمل والقيمة وعلاقات التبعية في الاقتصاد الحديث
 
-> **حالة النص:** إعادة بناء تحريرية جديدة. عنوان وظيفي مؤقت اقترح لتغطية موضوع الباب الثاني «العبودية الاقتصادية والمالية»، لأن العنوان الأصلي للفصل الثالث لم يُستعد من الفهرس المرجعي. لا يمثل هذا النص نقلاً عن مسودة سابقة، ويحتاج إلى مطابقة العنوان ومراجعة علمية وتوثيقية نهائية.
 
 ## تمهيد: الاقتصاد بين تبادل المنافع واختلال القوة
 
@@ -138,8 +137,6 @@
 
 ## مراجع الفصل
 
-### مراجع أولية للتحقق
-
 ### مراجع أكاديمية
 - Polanyi, Karl. *The Great Transformation: The Political and Economic Origins of Our Time*. 1944. تُراجع بيانات الطبعة المعتمدة.
 - Marx, Karl. *Capital: A Critique of Political Economy*, Volume I. 1867. تُحدد الترجمة والطبعة قبل اعتماد الإحالات.
@@ -154,9 +151,6 @@
 - منظمة العمل الدولية، اتفاقية حق التنظيم والمفاوضة الجماعية رقم 98 (1949).
 - الأمم المتحدة، بروتوكول منع وقمع ومعاقبة الاتجار بالأشخاص، وبخاصة النساء والأطفال (2000).
 
-> **ملاحظة توثيقية:** هذه قائمة أولية وليست ببليوغرافيا نهائية. يلزم التحقق من بيانات الطبعات والترجمات والنصوص الرسمية، وإضافة الإحالات الدقيقة بعد الرجوع إلى المصادر الأصلية. لم تُدرج أرقام صفحات أو إحصاءات غير متحقق منها.
-
-### مراجع إضافية للتحقق
 
 - International Labour Organization. *Tripartite Declaration of Principles concerning Multinational Enterprises and Social Policy*. 6th edition, 2022. https://www.ilo.org/empent/areas/mne-declaration
 - International Labour Organization. *Freedom of Association: Compilation of Decisions of the Committee on Freedom of Association*. 6th edition, 2018. https://www.ilo.org/global/standards/subjects-covered-by-international-labour-standards/freedom-of-association/lang--en/index.htm
