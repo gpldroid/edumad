@@ -41,10 +41,8 @@ jobs:
           pandoc dist/edumad-manuscript-review.md \
             --from markdown+raw_tex \
             --pdf-engine=xelatex \
-            --toc --toc-depth=2 \
-            --metadata title="العبودية المعاصرة" \
-            --metadata subtitle="قراءة في بنية السيطرة الحديثة وآليات الخضوع واستعادة الحرية الإنسانية" \
-            --metadata author="عماد لمراني" \
+            --metadata title-meta="Contemporary Slavery" \
+                        --metadata author-meta="Imad Limrani" \
             --metadata lang=ar \
             -V lang=ar \
             -V dir=rtl \
