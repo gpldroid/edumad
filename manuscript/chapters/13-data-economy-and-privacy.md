@@ -95,6 +95,8 @@
 
 ## مراجع الفصل
 
+### مراجع وإحالات أولية
+
 - UNCTAD. *Digital Economy Report 2021: Cross-border Data Flows and Development*.
 - OECD. *The OECD Privacy Framework*. 2013.
 - European Union. Regulation (EU) 2016/679 (General Data Protection Regulation), 27 April 2016.
@@ -104,7 +106,7 @@
 - Council of Europe. *Convention for the Protection of Individuals with Regard to Automatic Processing of Personal Data* (ETS No. 108), 1981; Convention 108+. https://www.coe.int/en/web/data-protection/convention108-and-protocol
 - UNCTAD. *Digital Economy Report 2021: Cross-border Data Flows and Development*. 2021.
 
-## إحالات موثقة للمباحث التنظيمية والاقتصادية
+### إحالات موثقة للمباحث التنظيمية والاقتصادية
 
 - الاتحاد الأوروبي، اللائحة (EU) 2016/679، 27 أبريل 2016، ولا سيما المواد 3 و5 و6 و12–22. النص الرسمي: https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng/ . يُستشهد بها هنا لشرح مبادئ المعالجة والنطاق الإقليمي والحقوق، لا للقول إنها قانون عالمي.
 - UNCTAD, *Digital Economy Report 2021: Cross-border data flows and development: For whom the data flow?* (2021). https://unctad.org/publication/digital-economy-report-2021 . يدعم تحليل التفاوت في القدرة على التقاط قيمة البيانات، والتوتر بين تدفق البيانات والخصوصية والتنمية؛ ولا يثبت أن توطين البيانات وحده يخلق قيمة محلية.
