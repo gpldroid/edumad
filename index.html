@@ -18,7 +18,7 @@ a{color:inherit}.hero{background:radial-gradient(ellipse at 15% 15%,#344554 0,tr
 .layout{max-width:1240px;margin:32px auto;padding:0 18px;display:grid;grid-template-columns:290px minmax(0,1fr);gap:24px;align-items:start}
 aside,.paper,.notice{background:var(--paper);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow)}
 aside{padding:22px;position:sticky;top:16px;max-height:calc(100vh - 32px);overflow:auto}aside h2{font-size:1.1rem;margin:0 0 12px;color:var(--accent)}nav a{display:block;text-decoration:none;padding:7px 10px;border-radius:8px;font-size:.92rem}nav a:hover{background:#f0e9de}nav .sub{padding-right:24px;color:var(--muted)}
-main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px solid var(--accent);box-shadow:none}.notice strong{display:block;margin-bottom:4px}.paper{padding:clamp(22px,4vw,54px);min-height:55vh}.paper h1,.paper h2,.paper h3{font-family:Amiri,serif;line-height:1.55;color:#263747}.paper h1{font-size:2rem;border-bottom:1px solid var(--line);padding-bottom:12px}.paper h2{font-size:1.55rem;margin-top:2.3em}.paper h3{font-size:1.25rem}.paper p{margin:0 0 1.25em;text-align:justify}.paper blockquote{border-right:3px solid var(--accent);margin:1.5em 0;padding:8px 18px;color:var(--muted);background:#f8f5ef}.paper li{margin:.35em 0}.paper a{color:#8b612f}.loading{color:var(--muted);text-align:center;padding:60px 12px}.status{display:inline-block;border:1px solid #d9c7aa;color:#76552e;border-radius:99px;padding:2px 11px;font-size:.82rem;margin:6px 0}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px}.toolbar button{border:1px solid var(--line);background:var(--paper);padding:8px 14px;border-radius:9px;font:inherit;cursor:pointer}.toolbar button:hover{border-color:var(--accent)}footer{text-align:center;color:var(--muted);padding:28px 12px;font-size:.88rem}
+main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px solid var(--accent);box-shadow:none}.notice strong{display:block;margin-bottom:4px}.paper{padding:clamp(22px,4vw,54px);min-height:55vh}.paper h1,.paper h2,.paper h3{font-family:Amiri,serif;line-height:1.55;color:#263747}.paper h1{font-size:2rem;border-bottom:1px solid var(--line);padding-bottom:12px}.paper h2{font-size:1.55rem;margin-top:2.3em}.paper h3{font-size:1.25rem}.paper p{margin:0 0 1.25em;text-align:justify}.large .paper{font-size:1.13rem}.large .paper p{line-height:2.15}.paper blockquote{border-right:3px solid var(--accent);margin:1.5em 0;padding:8px 18px;color:var(--muted);background:#f8f5ef}.paper li{margin:.35em 0}.paper a{color:#8b612f}.loading{color:var(--muted);text-align:center;padding:60px 12px}.status{display:inline-block;border:1px solid #d9c7aa;color:#76552e;border-radius:99px;padding:2px 11px;font-size:.82rem;margin:6px 0}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px}.toolbar button{border:1px solid var(--line);background:var(--paper);padding:8px 14px;border-radius:9px;font:inherit;cursor:pointer}.toolbar button:hover{border-color:var(--accent)}footer{text-align:center;color:var(--muted);padding:28px 12px;font-size:.88rem}
 @media(max-width:850px){.layout{grid-template-columns:1fr}aside{position:relative;top:auto;max-height:none}.hero{padding:44px 18px}.paper{padding:22px}}
 @media print{body{background:#fff}.hero{background:#fff;color:#111;border-bottom:2px solid #777;padding:20px}.hero p,.kicker{color:#333}.layout{display:block;margin:0;max-width:none}.layout aside,.notice,.toolbar,footer{display:none}.paper{border:0;box-shadow:none;padding:0}.paper p{text-align:justify;orphans:3;widows:3}a{text-decoration:none}}
 </style>
@@ -53,14 +53,13 @@ main{min-width:0}.notice{padding:18px 22px;margin-bottom:18px;border-right:4px s
 </nav>
 </aside>
 <main>
-<div class="notice"><strong>حالة هذه النسخة: مسودة عمل قيد الاستكمال</strong>
-تعرض هذه النسخة المقدمة والفصول 1–15 و19–22 المعاد بناؤها، إلى جانب الفصول 16–18 المحفوظة. عناوين الفصول 1 و3 و4 و6 وصفية مؤقتة لأن عناوينها الأصلية الكاملة غير متاحة في الفهرس المستعاد. لا تُعرض بوصفها عناوين أصلية. النصوص المعاد بناؤها ليست نصوصاً أصلية مستعادة، وتظل المراجعة العلمية واللغوية والتوثيقية الشاملة مطلوبة. هذه نسخة عمل وليست إصداراً نهائياً.</div>
 <div class="toolbar"><button onclick="window.print()">طباعة / حفظ PDF</button><button onclick="document.documentElement.classList.toggle('large')">تبديل وضع القراءة</button></div>
 <article class="paper" id="content"><div class="loading">جارٍ تحميل المخطوط المحفوظ…</div></article>
 </main>
 </div>
 <footer>© عماد لمراني — جميع الحقوق محفوظة. لا يجوز إعادة النشر أو الاستغلال التجاري دون إذن المؤلف.</footer>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.6/dist/purify.min.js"></script>
 <script>
 const chapters=[
 "01-historical-roots-of-slavery.md",
@@ -104,6 +103,13 @@ async function loadBook(){
   return;
  }
  marked.setOptions({gfm:true,breaks:false});
+ const renderer=new marked.Renderer();
+ renderer.link=({href,title,text})=>{
+  const label=String(text||"");
+  if(href && (href.startsWith("http://") || href.startsWith("https://"))) return label===href?label:label+" <span dir=\"ltr\">"+href+"</span>";
+  return "<a href=\""+href+"\">"+label+"</a>";
+ };
+ marked.use({renderer});
  const results=await Promise.allSettled(files.map(async file=>{
   const response=await fetch(`./${file.path}`,{cache:"no-cache"});
   if(!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -114,10 +120,9 @@ async function loadBook(){
   const result=results[i];
   const file=files[i];
   if(result.status==="fulfilled"){
-   html+=`<section id="${file.id}">${marked.parse(result.value.markdown)}</section><hr>`;
+   html+=`<section id="${file.id}">${DOMPurify.sanitize(marked.parse(result.value.markdown),{USE_PROFILES:{html:true}})}</section><hr>`;
   }else{
-   const githubUrl=`https://github.com/gpldroid/edumad/blob/main/${file.path}`;
-   html+=`<section id="${file.id}"><h2>تعذر تحميل هذا الجزء</h2><p>لم يتمكن القارئ من تحميل الملف المحلي. <a href="${githubUrl}" target="_blank" rel="noopener noreferrer">افتح الملف في GitHub</a>.</p></section><hr>`;
+   html+=`<section id="${file.id}"><h2>تعذر تحميل هذا الجزء</h2><p>تعذر تحميل هذا الجزء حالياً. أعد تحميل الكتاب لاحقاً.</p></section><hr>`;
   }
  }
  html+='<section id="references"><h1>المراجع والفهارس</h1><p>تُستكمل بعد التحقق من المراجع الواردة في الفصول وتوحيد أسلوب التوثيق، ثم إعداد فهرس الأعلام والمصطلحات والموضوعات. لا تعتمد قوائم المراجع الأولية الحالية بوصفها قائمة نهائية.</p></section>';
@@ -130,6 +135,7 @@ async function loadBook(){
   content.prepend(warning);
  }
 }
+document.getElementById("readingMode").addEventListener("click",()=>{const enabled=document.documentElement.classList.toggle("large");document.getElementById("readingMode").setAttribute("aria-pressed",String(enabled));document.getElementById("readingMode").textContent=enabled?"إعادة حجم الخط":"تكبير خط القراءة";});
 loadBook();
 </script>
 </body>
