@@ -143,9 +143,7 @@
 - World Bank. *World Development Report 2000/2001: Attacking Poverty*. Washington, DC: World Bank, 2000. https://documents.worldbank.org/curated/en/230351468332946759
 - International Labour Organization (ILO). *Decent Work Deficit: A Global Challenge*. Report of the Director-General, International Labour Conference, 89th Session, 2001. https://www.ilo.org/public/english/standards/relm/ilc/ilc89/rep-i-a.htm
 
-> ملاحظة توثيقية: أُدرجت بيانات المصدر والرابط حيث أمكن التحقق منها. قبل الإصدار النهائي، يجب تثبيت الطبعات المستخدمة فعلياً، وإضافة أرقام الصفحات لكل إحالة محددة، ومراجعة الترجمة العربية للعناوين إذا استُخدمت في قائمة مراجع عربية.
 
 - World Bank. *Poverty and Shared Prosperity 2022: Correcting Course*. Washington, DC: World Bank, 2022. https://www.worldbank.org/en/publication/poverty-and-shared-prosperity
 - World Bank. *World Development Report 2016: Digital Dividends*. Washington, DC: World Bank, 2016. https://www.worldbank.org/en/publication/wdr2016
 
-> ملاحظة تحريرية: المباحث المضافة توسعة تحليلية جديدة، وتحتاج مطابقة الإحالات داخل المتن ببيانات الطبعات والصفحات قبل الإصدار النهائي.
