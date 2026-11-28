@@ -115,10 +115,9 @@
 
 والغاية من هذا الاختبار ليست إلغاء مسؤولية الفرد أو تحويل كل صعوبة إلى قهر، بل التمييز بين قرار صعب اتخذه شخص يملك بدائل معقولة، وبين موافقة انتُزعت في بيئة تجعل الرفض شبه مستحيل. بهذا المعنى تصبح الحرية مفهوماً قابلاً للفحص النقدي، لا شعاراً يطلق على كل علاقة تعاقدية أو سياسية.
 
-### مراجع إضافية للتحقق
-- Berlin, Isaiah. “Two Concepts of Liberty.” In *Four Essays on Liberty*. Oxford University Press, 1969.
-
 ## مراجع الفصل
+
+### مراجع أولية للتحقق
 
 - Berlin, Isaiah. *Two Concepts of Liberty*. Inaugural Lecture, University of Oxford, 1958.
 - Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. 1785. تُحدد الترجمة والطبعة المعتمدتان في النسخة النهائية.
@@ -129,3 +128,9 @@
 - Skinner, Quentin. *Liberty before Liberalism*. Cambridge University Press, 1998.
 
 > **ملاحظة توثيقية:** المراجع أعلاه تأسيسية أولية. يجب التحقق من الطبعات والترجمات وبيانات النشر، وإضافة إحالات دقيقة إلى النصوص الأصلية قبل اعتماد النسخة النهائية.
+
+### مراجع إضافية للتحقق
+
+- Berlin, Isaiah. “Two Concepts of Liberty.” In *Four Essays on Liberty*. Oxford University Press, 1969.
+- Pettit, Philip. *Republicanism: A Theory of Freedom and Government*. Oxford University Press, 1997.
+- Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
