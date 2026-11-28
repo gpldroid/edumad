@@ -109,13 +109,15 @@
 
 ## مراجع الفصل
 
+### مراجع وإحالات أولية
+
 - ILO, Walk Free and IOM. *Global Estimates of Modern Slavery: Forced Labour and Forced Marriage*. 2022. ISBN 978-92-2-037483-2.
 - ILO. *Profits and Poverty: The Economics of Forced Labour*. 2024.
 - ILO. Forced Labour Convention, 1930 (No. 29), and Protocol of 2014.
 - United Nations. *Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children*. 2000.
 - United Nations. *Guiding Principles on Business and Human Rights*. 2011.
 
-## إحالات إحصائية مباشرة
+### إحالات إحصائية مباشرة
 
 - ILO and UNICEF, *Child Labour: Global Estimates 2024, Trends and the Road Forward* (published 11 June 2025). https://www.ilo.org/resource/other/2024-global-estimates-child-labour-figures . الأرقام تخص سنة التقدير 2024 لا سنة النشر، وتشمل 137.6 مليون طفل في عمل الأطفال و54 مليوناً في الأعمال الخطرة.
 - ILO, Walk Free and IOM, *Global Estimates of Modern Slavery: Forced Labour and Forced Marriage* (2022). https://www.ilo.org/publications/major-publications/global-estimates-modern-slavery-forced-labour-and-forced-marriage . تقديرات 49.6 مليون شخص في العبودية الحديثة في أي يوم من 2021، موزعة إلى 27.6 مليون في العمل الجبري و22 مليوناً في الزواج القسري.
