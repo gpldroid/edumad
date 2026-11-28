@@ -11,7 +11,7 @@
 - المؤلف: عماد لمراني.
 
 ## القراءة والنشر
-- رابط الموقع المستهدف: https://gpldroid.github.io/edumad/ (يصبح متاحاً بعد تفعيل مصدر GitHub Actions من إعدادات Pages ونجاح أول نشر).
+- رابط الموقع المستهدف: https://gpldroid.github.io/edumad/.
 - [صفحة المستودع](https://github.com/gpldroid/edumad)
 - index.html: قارئ عربي متجاوب مع فهرس وتنقل وطباعة/حفظ PDF.
 - .github/workflows/pages.yml: نشر تلقائي عند تحديث main أو تشغيل سير العمل يدوياً.
