@@ -263,6 +263,6 @@
 9. World Health Organization. (2022). *World Mental Health Report: Transforming Mental Health for All*.
 10. International Labour Organization. (2019). *Working on a Warmer Planet: The Impact of Heat Stress on Labour Productivity and Decent Work*.
 11. United Nations. (1966). *International Covenant on Economic, Social and Cultural Rights*.
-12. International Labour Organization. (1935). *Hours of Work (Commerce and Offices) Convention, 1930 (No. 30)*.
+12. International Labour Organization. (1930). *Hours of Work (Commerce and Offices) Convention, 1930 (No. 30)*.
 
 **ملاحظة تحريرية:** هذه مسودة فصل ومراجعها أولية؛ يلزم التحقق من بيانات الطبعات والصفحات والإحالات المباشرة قبل إغلاق النسخة العلمية النهائية.
