@@ -65,6 +65,7 @@ const cover = [
   "\\end{titlepage}",
   "\\clearpage",
   "\\pagenumbering{roman}",
+  "\\setcounter{tocdepth}{0}",
   "\\tableofcontents",
   "\\clearpage",
   "\\pagenumbering{arabic}",
