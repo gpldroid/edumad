@@ -81,7 +81,7 @@ for (const file of required) {
         errors.push(`Bibliography appears before the final chapter section: ${file}`);
       }
       const bibliographyText = lines.slice(bibliographyIndex + 1).join("\n");
-      if (!/^\s*(?:[-*]\s+|\\d+[.)]\s+)/m.test(bibliographyText)) {
+      if (!/^\s*(?:[-*]\s+|\d+[.)]\s+)/m.test(bibliographyText)) {
         errors.push(`Bibliography section has no detectable reference entries: ${file}`);
       }
       bibliographyChecks += 1;
