@@ -64,3 +64,5 @@
 - `project/SOURCE_VERIFICATION_BATCH_03.md`: الدفعة الثالثة، مصادر مختارة للفصول 1–6.
 - `project/SOURCE_VERIFICATION_BATCH_04.md`: الدفعة الرابعة، مصادر مختارة للفصول 13–18.
 - `project/ACADEMIC_SOURCE_AUDIT.md`: الحكم الأكاديمي المرحلي والفجوات المفتوحة.
+
+- `project/SOURCE_CLAIM_AUDIT_BATCH_05.md`: تدقيق موضعي لربط الادعاءات بالإحالات في الفصول 1–6 و13–18.
