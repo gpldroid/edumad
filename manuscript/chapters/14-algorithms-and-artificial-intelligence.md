@@ -93,12 +93,14 @@
 
 ## مراجع الفصل
 
+### مراجع وإحالات أولية
+
 - UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. Adopted 23 November 2021; published 2022.
 - OECD. *How Widespread Is Algorithmic Management in Workplaces?* OECD Publishing, 2025. DOI: 10.1787/cda7a114-en.
 - NIST. *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. 2023. DOI: 10.6028/NIST.AI.100-1.
 - O'Neil, Cathy. *Weapons of Math Destruction*. Crown, 2016.
 - Eubanks, Virginia. *Automating Inequality*. St. Martin's Press, 2018.
 
-## الإحالة القانونية الأولية
+### الإحالة القانونية الأولية
 
 - European Parliament and Council, Regulation (EU) 2024/1689 of 13 June 2024 (Artificial Intelligence Act), OJ L, 12 July 2024, ELI: https://eur-lex.europa.eu/eli/reg/2024/1689/oj . ينبغي قراءة المادة 113 مع النص الموحّد وتعديلاته، لأن مواعيد التطبيق متدرجة ولا يصح اختزالها في تاريخ واحد.
