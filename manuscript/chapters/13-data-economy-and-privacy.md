@@ -57,17 +57,6 @@
 
 اقتصاد البيانات يفتح إمكانات معرفية وخدمية واسعة، لكنه يعيد توزيع القوة بين الأفراد والمؤسسات. ولا يتحقق التوازن بمنع البيانات مطلقاً ولا بإباحتها بلا قيود، بل بتحديد الأغراض وتقليل الجمع والشفافية والأمن والرقابة والإنصاف. وتظل الخصوصية شرطاً للاستقلال، لا عقبة أمام الابتكار.
 
-## مراجع الفصل
-
-- UNCTAD. *Digital Economy Report 2021: Cross-border Data Flows and Development*.
-- OECD. *The OECD Privacy Framework*. 2013.
-- European Union. Regulation (EU) 2016/679 (General Data Protection Regulation), 27 April 2016.
-- Nissenbaum, Helen. *Privacy in Context: Technology, Policy, and the Integrity of Social Life*. Stanford University Press, 2010.
-- Zuboff, Shoshana. *The Age of Surveillance Capitalism*. PublicAffairs, 2019.
-
-- Council of Europe. *Convention for the Protection of Individuals with Regard to Automatic Processing of Personal Data* (ETS No. 108), 1981; Convention 108+. https://www.coe.int/en/web/data-protection/convention108-and-protocol
-- UNCTAD. *Digital Economy Report 2021: Cross-border Data Flows and Development*. 2021.
-
 ## المبحث الثامن: أمن البيانات والخروقات والمسؤولية
 
 لا تنحصر حماية البيانات في منع الاستخدام التجاري؛ فالأمن التقني شرط أساسي لمنع الوصول غير المصرح به والتسريب والتعديل والتعطيل. ويشمل ذلك إدارة الصلاحيات، والتشفير المناسب، وتحديث الأنظمة، واختبار الاختراق، وخطط الاستجابة للحوادث، وتحديد المسؤوليات بين المؤسسة ومزودي الخدمة.
@@ -103,6 +92,17 @@
 يمكن اعتماد قائمة تدقيق دورية تتضمن: سجل أنشطة المعالجة؛ تحديد الأساس القانوني والغرض؛ تقييم أثر حماية البيانات عند ارتفاع المخاطر؛ تقليل الجمع؛ ضبط صلاحيات الوصول؛ عقود المعالجين؛ إدارة النقل الدولي؛ مدد الاحتفاظ والحذف؛ خطة الاستجابة للخروقات؛ تدريب الموظفين؛ وآلية واضحة لطلبات أصحاب البيانات.
 
 ولا تتحقق المساءلة بإعداد وثيقة شكلية. ينبغي اختبار قدرة المؤسسة على العثور على بيانات شخص محدد، وتصحيحها أو حذفها عندما يسمح القانون، وإثبات أن الصلاحيات لا تتجاوز الحاجة. كما ينبغي إجراء اختبارات دورية للخطة، وتوثيق الحوادث والإجراءات التصحيحية، ونشر معلومات مفهومة للمستخدمين. وتظل الموازنة بين الخصوصية والمنفعة العامة خاضعة للقانون والضرورة والتناسب والرقابة المستقلة.
+
+## مراجع الفصل
+
+- UNCTAD. *Digital Economy Report 2021: Cross-border Data Flows and Development*.
+- OECD. *The OECD Privacy Framework*. 2013.
+- European Union. Regulation (EU) 2016/679 (General Data Protection Regulation), 27 April 2016.
+- Nissenbaum, Helen. *Privacy in Context: Technology, Policy, and the Integrity of Social Life*. Stanford University Press, 2010.
+- Zuboff, Shoshana. *The Age of Surveillance Capitalism*. PublicAffairs, 2019.
+
+- Council of Europe. *Convention for the Protection of Individuals with Regard to Automatic Processing of Personal Data* (ETS No. 108), 1981; Convention 108+. https://www.coe.int/en/web/data-protection/convention108-and-protocol
+- UNCTAD. *Digital Economy Report 2021: Cross-border Data Flows and Development*. 2021.
 
 ## إحالات موثقة للمباحث التنظيمية والاقتصادية
 
