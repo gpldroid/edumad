@@ -125,18 +125,14 @@
 - Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. 1975; English trans. 1977.
 - Arendt, Hannah. *The Origins of Totalitarianism*. 1951.
 - Sunstein, Cass R. *#Republic: Divided Democracy in the Age of Social Media*. Princeton University Press, 2017.
-- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021.
-- UNESCO. *Recommendation on the Ethics of Artificial Intelligence*. Adopted 23 November 2021.
-- ينبغي استكمال أرقام الصفحات والطبعات المستخدمة فعلياً عند إدراج اقتباسات مباشرة؛ لم تُدرج اقتباسات حرفية في هذا الفصل.
-
-- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
-
+- UNESCO. (2021). *Media and information literate citizens: Think critically, click wisely!* ISBN 978-92-3-100448-3. https://www.unesco.org/en/articles/media-and-information-literate-citizens
+- UNESCO. (2021, November 23). *Recommendation on the ethics of artificial intelligence*. https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence
 ### مراجع إضافية للتحقق
 
 - Cialdini, Robert B. *Influence: The Psychology of Persuasion*. Revised edition. Harper Business, 2006.
 - Sunstein, Cass R. *The Ethics of Influence: Government in the Age of Behavioral Science*. Cambridge University Press, 2016.
 - Thaler, Richard H., and Cass R. Sunstein. *Nudge: Improving Decisions about Health, Wealth, and Happiness*. Yale University Press, 2008.
 - UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
-- OECD. *Dark Commercial Patterns*. OECD Digital Economy Papers, 2022. https://doi.org/10.1787/44f5e846-en
+- OECD. (2022). *Dark commercial patterns* (OECD Digital Economy Papers). https://doi.org/10.1787/44f5e846-en
 
 > ملاحظة توثيقية: أضيفت هذه المراجع بوصفها مراجع تأسيسية مقترحة للفحص. يجب مطابقة الطبعة والصفحات وإضافة الإحالات الموضعية عند الاستشهاد التفصيلي؛ ولا تُعامل القائمة وحدها بوصفها تحققاً نهائياً لكل فقرة.
