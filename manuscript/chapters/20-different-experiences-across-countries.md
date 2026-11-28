@@ -145,8 +145,10 @@
 
 ### إحالات البيانات المقارنة
 
-- World Bank, *World Development Report 2024: The Middle-Income Trap* (2024). https://www.worldbank.org/en/publication/wdr2024 . يدعم إطار «الاستثمار ثم استيعاب التكنولوجيا ثم الابتكار» والعدد التاريخي للاقتصادات التي انتقلت إلى فئة الدخل المرتفع منذ 1990؛ ويجب عدم تحويله إلى حكم سببي على بلد منفرد.
-- Haut-Commissariat au Plan (Maroc), «Activité, emploi et chômage, résultats annuels 2024», publié le 8 juillet 2025. https://www.hcp.ma/Activite-emploi-et-chomage-resultats-annuels-2024_a4142.html . المصدر المباشر لأرقام خلق 82 ألف منصب صافٍ، والتفاوت الحضري/القروي، وارتفاع البطالة إلى 13.3% في 2024.
+- World Bank. (2024). *World Development Report 2024: The Middle-Income Trap*. https://www.worldbank.org/en/publication/wdr2024.
+  - ملاحظة توثيقية: يدعم التقرير إطار «الاستثمار ثم استيعاب التكنولوجيا ثم الابتكار» والعدد التاريخي للاقتصادات التي انتقلت إلى فئة الدخل المرتفع منذ 1990؛ ولا يجوز تحويله إلى حكم سببي على بلد منفرد.
+- Haut-Commissariat au Plan (Maroc). (2025, 8 juillet). *Activité, emploi et chômage, résultats annuels 2024*. https://www.hcp.ma/Activite-emploi-et-chomage-resultats-annuels-2024_a4142.html.
+  - ملاحظة توثيقية: المصدر المباشر لأرقام خلق 82 ألف منصب صافٍ، والتفاوت الحضري/القروي، وارتفاع البطالة إلى 13.3% في 2024.
 - ILO. (2023). *The Rana Plaza disaster ten years on: What has changed?* https://webapps.ilo.org/infostories/en-GB/Stories/Country-Focus/rana-plaza.html .
 - ILO. (2017). *Final Independent Evaluation: RMG Programme Bangladesh*. https://webapps.ilo.org/ievaldiscovery/files/file/204493 .
 - World Bank. (2020). *Strengthening Conditional Cash Transfers and the Single Registry in Brazil*. https://www.worldbank.org/en/results/2020/04/22/strengthening-conditional-cash-transfers-and-the-single-registry-in-brazil .
