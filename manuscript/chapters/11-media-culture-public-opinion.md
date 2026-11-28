@@ -115,9 +115,7 @@
 
 - McCombs, Maxwell. *Setting the Agenda: The Mass Media and Public Opinion*. 2nd ed., Polity, 2014.
 - Habermas, Jürgen. *The Structural Transformation of the Public Sphere*. 1962; English trans. 1989.
-- UNESCO. *Journalism, “Fake News” and Disinformation: Handbook for Journalism Education and Training*. 2018.
 - UNESCO. *The Chilling: Global Trends in Online Violence against Women Journalists*. 2021.
-- UNESCO. *Guidelines for the Governance of Digital Platforms*. 2023.
 
-- Ireton, Cherilyn, and Julie Posetti, eds. *Journalism, Fake News & Disinformation: Handbook for Journalism Education and Training*. UNESCO, 2018. ISBN 978-92-3-100281-6. https://www.unesco.org/en/articles/journalism-fake-news-disinformation
-- UNESCO. *Guidelines for the Governance of Digital Platforms*. 2023. https://www.unesco.org/en/internet-trust/guidelines
+- Ireton, C., & Posetti, J. (Eds.). (2018). *Journalism, fake news & disinformation: Handbook for journalism education and training*. UNESCO. ISBN 978-92-3-100281-6. https://www.unesco.org/en/articles/journalism-fake-news-disinformation
+- UNESCO. (2023). *Guidelines for the governance of digital platforms*. ISBN 978-92-3-100620-3. https://www.unesco.org/en/articles/guidelines-governance-digital-platforms
