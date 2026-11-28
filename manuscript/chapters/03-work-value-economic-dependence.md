@@ -136,11 +136,9 @@
 
 لا تثبت الإجابة السلبية عن سؤال واحد وجود عمل جبري أو رق؛ فهذه أوصاف لها عناصر قانونية محددة. لكن تراكم المؤشرات قد يكشف علاقة شديدة الاختلال تستدعي تدخلاً تنظيمياً أو اجتماعياً. ويجب أن تستند النتيجة النهائية إلى الوقائع والقانون المطبق، لا إلى الانطباع أو المصطلح البلاغي.
 
-### مراجع إضافية للتحقق
-- International Labour Organization. *Tripartite Declaration of Principles concerning Multinational Enterprises and Social Policy*. 6th edition, 2022. https://www.ilo.org/empent/areas/mne-declaration
-- International Labour Organization. *Freedom of Association: Compilation of Decisions of the Committee on Freedom of Association*. 6th edition, 2018. https://www.ilo.org/global/standards/subjects-covered-by-international-labour-standards/freedom-of-association/lang--en/index.htm
-
 ## مراجع الفصل
+
+### مراجع أولية للتحقق
 
 ### مراجع أكاديمية
 - Polanyi, Karl. *The Great Transformation: The Political and Economic Origins of Our Time*. 1944. تُراجع بيانات الطبعة المعتمدة.
@@ -157,3 +155,8 @@
 - الأمم المتحدة، بروتوكول منع وقمع ومعاقبة الاتجار بالأشخاص، وبخاصة النساء والأطفال (2000).
 
 > **ملاحظة توثيقية:** هذه قائمة أولية وليست ببليوغرافيا نهائية. يلزم التحقق من بيانات الطبعات والترجمات والنصوص الرسمية، وإضافة الإحالات الدقيقة بعد الرجوع إلى المصادر الأصلية. لم تُدرج أرقام صفحات أو إحصاءات غير متحقق منها.
+
+### مراجع إضافية للتحقق
+
+- International Labour Organization. *Tripartite Declaration of Principles concerning Multinational Enterprises and Social Policy*. 6th edition, 2022. https://www.ilo.org/empent/areas/mne-declaration
+- International Labour Organization. *Freedom of Association: Compilation of Decisions of the Committee on Freedom of Association*. 6th edition, 2018. https://www.ilo.org/global/standards/subjects-covered-by-international-labour-standards/freedom-of-association/lang--en/index.htm
