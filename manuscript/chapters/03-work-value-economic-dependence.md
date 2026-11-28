@@ -90,7 +90,7 @@
 
 ومع ذلك، لا يصح مساواة كل تفاوت أو استغلال بالعبودية. فالعمل المأجور والتبادل الاقتصادي والاعتماد المتبادل ليست في ذاتها استعباداً. ويصبح استعمال مفاهيم الإكراه أو العمل الجبري أو الرق مشروعاً تحليلياً أو قانونياً فقط عندما تتوافر عناصرها المحددة. ومن هنا ينتقل الكتاب إلى موضوع الديون والائتمان، حيث يمكن للالتزامات المالية أن تكون أداة لتوسيع الفرص، كما يمكن في ظروف معينة أن تتحول إلى علاقة تبعية طويلة الأمد.
 
-## مراجع أولية للتحقق
+## مراجع الفصل
 
 ### مراجع أكاديمية
 - Polanyi, Karl. *The Great Transformation: The Political and Economic Origins of Our Time*. 1944. تُراجع بيانات الطبعة المعتمدة.
@@ -154,7 +154,6 @@
 
 لا تثبت الإجابة السلبية عن سؤال واحد وجود عمل جبري أو رق؛ فهذه أوصاف لها عناصر قانونية محددة. لكن تراكم المؤشرات قد يكشف علاقة شديدة الاختلال تستدعي تدخلاً تنظيمياً أو اجتماعياً. ويجب أن تستند النتيجة النهائية إلى الوقائع والقانون المطبق، لا إلى الانطباع أو المصطلح البلاغي.
 
-## مراجع إضافية للتحقق
-
+### مراجع إضافية للتحقق
 - International Labour Organization. *Tripartite Declaration of Principles concerning Multinational Enterprises and Social Policy*. 6th edition, 2022. https://www.ilo.org/empent/areas/mne-declaration
 - International Labour Organization. *Freedom of Association: Compilation of Decisions of the Committee on Freedom of Association*. 6th edition, 2018. https://www.ilo.org/global/standards/subjects-covered-by-international-labour-standards/freedom-of-association/lang--en/index.htm
