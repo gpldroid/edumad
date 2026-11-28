@@ -36,7 +36,6 @@
   <path d="M425 670c-15 0-26 12-26 27v73h52v-73c0-15-11-27-26-27Z" fill="#080F18" opacity=".88"/>
   <circle cx="425" cy="651" r="18" fill="#080F18" opacity=".9"/>
   <g text-anchor="middle" direction="rtl">
-    <text x="425" y="190" fill="#D9A441" font-family="Amiri, 'Noto Naskh Arabic', serif" font-size="27" letter-spacing="4">دراسة فكرية وتحليلية</text>
     <path d="M285 225H565" stroke="url(#gold)" stroke-width="2"/>
     <text x="425" y="305" fill="#F2EBDD" font-family="Amiri, 'Noto Naskh Arabic', serif" font-size="76" font-weight="700">العبودية المعاصرة</text>
     <path d="M325 350H525" stroke="#D9A441" stroke-width="2" opacity=".85"/>
@@ -44,5 +43,4 @@
     <text x="425" y="1065" fill="#F2EBDD" font-family="Amiri, 'Noto Naskh Arabic', serif" font-size="42" font-weight="700">عماد لمراني</text>
     <path d="M320 1100H530" stroke="url(#gold)" stroke-width="2"/>
   </g>
-  <text x="425" y="1150" text-anchor="middle" fill="#B9B4A9" font-family="serif" font-size="13" letter-spacing="3">EDUMAD</text>
 </svg>
