@@ -120,7 +120,7 @@ for (const file of readerFiles) {
 }
 
 const plainLinksFilter = readFileSync(join(root, "scripts/plain-links.lua"), "utf8");
-if (!plainLinksFilter.includes("function Link(link)") || !plainLinksFilter.includes("label == target") || !plainLinksFilter.includes("return {}") || !plainLinksFilter.includes("return link.content")) {
+if (!plainLinksFilter.includes("function Link(link)") || !plainLinksFilter.includes("label == target") || !plainLinksFilter.includes("return {}") || !plainLinksFilter.includes("return link.content") || !plainLinksFilter.includes("function Str(el)") || !plainLinksFilter.includes("https?://%S+")) {
   errors.push("PDF link filter must omit bare external URLs while preserving citation labels and ordinary DOI text.");
 }
 
