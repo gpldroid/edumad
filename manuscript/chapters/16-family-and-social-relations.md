@@ -113,6 +113,8 @@
 
 ## مراجع الفصل
 
+### المراجع الأولية
+
 1. International Labour Organization (2018). *Care Work and Care Jobs for the Future of Decent Work*. Geneva: ILO.
 2. International Labour Organization (2024). *The Impact of Care Responsibilities on Women’s Labour Force Participation*. Statistical Brief, October 2024.
 3. World Health Organization. *Violence Against Women*. Fact sheet.
