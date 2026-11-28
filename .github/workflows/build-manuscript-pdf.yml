@@ -41,6 +41,8 @@ jobs:
           pandoc dist/edumad-manuscript-review.md \
             --from markdown+raw_tex \
             --pdf-engine=xelatex \
+            --include-in-header=scripts/pdf-header.tex \
+            --lua-filter=scripts/ltr-references.lua \
             --metadata title-meta="Contemporary Slavery" \
                         --metadata author-meta="Imad Limrani" \
             --metadata lang=ar \
