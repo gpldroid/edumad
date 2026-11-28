@@ -120,8 +120,8 @@ for (const file of readerFiles) {
 }
 
 const plainLinksFilter = readFileSync(join(root, "scripts/plain-links.lua"), "utf8");
-if (!plainLinksFilter.includes("function Link(link)") || !plainLinksFilter.includes("return link.content")) {
-  errors.push("PDF link filter must preserve link text while removing clickable destinations.");
+if (!plainLinksFilter.includes("function Link(link)") || !plainLinksFilter.includes("label == target") || !plainLinksFilter.includes("return {}") || !plainLinksFilter.includes("return link.content")) {
+  errors.push("PDF link filter must omit bare external URLs while preserving citation labels and ordinary DOI text.");
 }
 
 const html = readFileSync(join(root, "index.html"), "utf8");
