@@ -52,8 +52,13 @@ jobs:
             -V mainfont="Amiri" \
             -V sansfont="Amiri" \
             -V monofont="DejaVu Sans Mono" \
-            -V geometry:margin=2.4cm \
-            -V papersize=a4 \
+            -V geometry:paperwidth=17cm \
+            -V geometry:paperheight=24cm \
+            -V geometry:inner=2.2cm \
+            -V geometry:outer=1.8cm \
+            -V geometry:top=2cm \
+            -V geometry:bottom=2cm \
+            -V geometry:bindingoffset=0.4cm \
             -V fontsize=12pt \
             -V documentclass=book \
             -V classoption=openany \
