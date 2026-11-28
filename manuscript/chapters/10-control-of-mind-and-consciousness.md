@@ -118,15 +118,9 @@
 
 وعليه، فإن مواجهة السيطرة على الوعي لا تكون بحظر كل تأثير أو بتصنيف المخالفين باعتبارهم ضحايا تلاعب، بل ببناء بيئة تجعل التأثير قابلاً للكشف والنقد، وتمنح المتلقي أدوات لفهمه ورفضه، وتحاسب من يخفي المعلومات أو يستغل الضعف أو يعرقل حرية الاختيار. وبهذا يرتبط هذا الفصل بالفصول التالية عن الإعلام والهوية والبيانات والخوارزميات، دون أن يحل محل تحليلها المتخصص.
 
-### مراجع إضافية للتحقق
-- Cialdini, Robert B. *Influence: The Psychology of Persuasion*. Revised edition. Harper Business, 2006.
-- Sunstein, Cass R. *The Ethics of Influence: Government in the Age of Behavioral Science*. Cambridge University Press, 2016.
-- Thaler, Richard H., and Cass R. Sunstein. *Nudge: Improving Decisions about Health, Wealth, and Happiness*. Yale University Press, 2008.
-- OECD. *Dark Commercial Patterns*. OECD Digital Economy Papers, 2022. https://doi.org/10.1787/44f5e846-en
-
-> ملاحظة توثيقية: أضيفت هذه المراجع بوصفها مراجع تأسيسية مقترحة للفحص. يجب مطابقة الطبعة والصفحات وإضافة الإحالات الموضعية عند الاستشهاد التفصيلي؛ ولا تُعامل القائمة وحدها بوصفها تحققاً نهائياً لكل فقرة.
-
 ## مراجع الفصل
+
+### مراجع وإحالات أولية
 
 - Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. 1975; English trans. 1977.
 - Arendt, Hannah. *The Origins of Totalitarianism*. 1951.
@@ -136,3 +130,13 @@
 - ينبغي استكمال أرقام الصفحات والطبعات المستخدمة فعلياً عند إدراج اقتباسات مباشرة؛ لم تُدرج اقتباسات حرفية في هذا الفصل.
 
 - UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
+
+### مراجع إضافية للتحقق
+
+- Cialdini, Robert B. *Influence: The Psychology of Persuasion*. Revised edition. Harper Business, 2006.
+- Sunstein, Cass R. *The Ethics of Influence: Government in the Age of Behavioral Science*. Cambridge University Press, 2016.
+- Thaler, Richard H., and Cass R. Sunstein. *Nudge: Improving Decisions about Health, Wealth, and Happiness*. Yale University Press, 2008.
+- UNESCO. *Media and Information Literate Citizens: Think Critically, Click Wisely!* 2021. https://www.unesco.org/en/media-information-literacy
+- OECD. *Dark Commercial Patterns*. OECD Digital Economy Papers, 2022. https://doi.org/10.1787/44f5e846-en
+
+> ملاحظة توثيقية: أضيفت هذه المراجع بوصفها مراجع تأسيسية مقترحة للفحص. يجب مطابقة الطبعة والصفحات وإضافة الإحالات الموضعية عند الاستشهاد التفصيلي؛ ولا تُعامل القائمة وحدها بوصفها تحققاً نهائياً لكل فقرة.
