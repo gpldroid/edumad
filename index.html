@@ -125,7 +125,7 @@ async function loadBook(){
    html+=`<section id="${file.id}"><h2>تعذر تحميل هذا الجزء</h2><p>تعذر تحميل هذا الجزء حالياً. أعد تحميل الكتاب لاحقاً.</p></section><hr>`;
   }
  }
- html+='<section id="references"><h1>المراجع والفهارس</h1><p>تُستكمل بعد التحقق من المراجع الواردة في الفصول وتوحيد أسلوب التوثيق، ثم إعداد فهرس الأعلام والمصطلحات والموضوعات. لا تعتمد قوائم المراجع الأولية الحالية بوصفها قائمة نهائية.</p></section>';
+ html+='<section id="references"><h1>مراجع الفصول</h1><p>ترد المراجع المرتبطة بموضوعات الكتاب في نهاية الفصول ذات الصلة.</p></section>';
  content.innerHTML=html;
  const failed=results.filter(r=>r.status==="rejected").length;
  if(failed){
