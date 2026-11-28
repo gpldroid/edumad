@@ -69,7 +69,7 @@ const cover = [
   "\\clearpage",
   "\\pagenumbering{arabic}",
   ""
-].join("\\n");
+].join("\n");
 const output = cover + sections.join("");
 mkdirSync(join(root, "dist"), { recursive: true });
 writeFileSync(join(root, "dist", "edumad-manuscript-review.md"), output + "\n", "utf8");
