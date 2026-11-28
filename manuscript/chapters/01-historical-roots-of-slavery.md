@@ -88,12 +88,9 @@
 
 وعلى هذا الأساس، لا يُقاس الحاضر بالماضي عبر استعارة لفظ «العبودية» لكل علاقة غير عادلة. بل تُستخدم التجربة التاريخية لتطوير أسئلة دقيقة حول السيطرة على الجسد والعمل والحركة، وحول قدرة الفرد على الرفض والمغادرة، وحول دور القانون والمؤسسات في حماية الاستقلال أو تقويضه.
 
-### مراجع إضافية للتحقق
-- Bradley, Keith, and Paul Cartledge, eds. *The Cambridge World History of Slavery, Volume 1: The Ancient Mediterranean World*. Cambridge University Press, 2011. https://doi.org/10.1017/CHOL9780521840668
-- Vlassopoulos, Kostas. “Greek and Roman Slaveries: Methodological Issues.” In *The Oxford Handbook of Greek and Roman Slaveries*. Oxford University Press, 2024. https://doi.org/10.1093/oxfordhb/9780199575251.013.38
-- Diamantopoulos, Ioannis, Milan Prodanovic, and Kostas Vlassopoulos. “Recent Developments in the Historical Research of Ancient Slavery.” *The Classical Review* 75, no. 2 (2025): 297–302. https://doi.org/10.1017/S0009840X25000393
-
 ## مراجع الفصل
+
+### مراجع أولية للتحقق
 
 - Davis, David Brion. *The Problem of Slavery in Western Culture*. Cornell University Press, 1966.
 - Drescher, Seymour. *Abolition: A History of Slavery and Antislavery*. Cambridge University Press, 2009.
@@ -105,3 +102,9 @@
 - SlaveVoyages, *The Trans-Atlantic Slave Trade Database*، قاعدة بيانات بحثية؛ تاريخ الاطلاع والرابط وإصدار البيانات يثبتان في النسخة النهائية.
 
 > **ملاحظة توثيقية:** هذه قائمة مراجع أولية وليست ببليوغرافيا نهائية. يجب التحقق من بيانات الطبعات والترجمات والروابط وتواريخ الاطلاع، وإضافة الإحالات داخل المتن بعد مراجعة المصادر الأصلية.
+
+### مراجع إضافية للتحقق
+
+- Bradley, Keith, and Paul Cartledge, eds. *The Cambridge World History of Slavery, Volume 1: The Ancient Mediterranean World*. Cambridge University Press, 2011. https://doi.org/10.1017/CHOL9780521840668
+- Vlassopoulos, Kostas. “Greek and Roman Slaveries: Methodological Issues.” In *The Oxford Handbook of Greek and Roman Slaveries*. Oxford University Press, 2024. https://doi.org/10.1093/oxfordhb/9780199575251.013.38
+- Diamantopoulos, Ioannis, Milan Prodanovic, and Kostas Vlassopoulos. “Recent Developments in the Historical Research of Ancient Slavery.” *The Classical Review* 75, no. 2 (2025): 297–302. https://doi.org/10.1017/S0009840X25000393
