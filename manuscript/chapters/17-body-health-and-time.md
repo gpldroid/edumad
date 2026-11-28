@@ -271,4 +271,3 @@
 17. United Nations. (1966). *International Covenant on Economic, Social and Cultural Rights*.
 18. International Labour Organization. (1930). *Hours of Work (Commerce and Offices) Convention, 1930 (No. 30)*.
 
-**ملاحظة تحريرية:** هذه مسودة فصل ومراجعها أولية؛ يلزم التحقق من بيانات الطبعات والصفحات والإحالات المباشرة قبل إغلاق النسخة العلمية النهائية.
