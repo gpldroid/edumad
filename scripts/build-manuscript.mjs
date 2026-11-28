@@ -58,7 +58,6 @@ const cover = [
   "\\vspace{1.5cm}",
   "{\\Huge\\bfseries\\color{EdumadNavy} العبودية المعاصرة\\par}",
   "\\vspace{1.1cm}",
-  "{\\Large\\color{EdumadMuted} قراءة في بنية السيطرة الحديثة وآليات الخضوع واستعادة الحرية الإنسانية\\par}",
   "\\vspace{2.2cm}",
   "{\\large\\bfseries\\color{EdumadInk} تأليف\\par}",
   "\\vspace{0.35cm}",
