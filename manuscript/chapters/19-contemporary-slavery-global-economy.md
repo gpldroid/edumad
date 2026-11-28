@@ -63,14 +63,6 @@
 
 العبودية المعاصرة ليست صورة واحدة، ولا يصح اختزالها في الفقر أو التفاوت، كما لا يصح حصرها في مكان بعيد عن الاقتصاد العالمي. إنها تشمل انتهاكات قانونية محددة وعلاقات استغلال تتغذى من هشاشة العمل والديون والتمييز وضعف الإنفاذ. ويقتضي فهمها تعريفاً دقيقاً ومصادر قابلة للتحقق ومسؤولية موزعة على الدول والشركات والوسطاء، مع وضع كرامة المتضررين وحقوقهم في مركز التحليل.
 
-## مراجع الفصل
-
-- ILO, Walk Free and IOM. *Global Estimates of Modern Slavery: Forced Labour and Forced Marriage*. 2022. ISBN 978-92-2-037483-2.
-- ILO. *Profits and Poverty: The Economics of Forced Labour*. 2024.
-- ILO. Forced Labour Convention, 1930 (No. 29), and Protocol of 2014.
-- United Nations. *Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children*. 2000.
-- United Nations. *Guiding Principles on Business and Human Rights*. 2011.
-
 ## المبحث الثامن: الوقاية وإعادة الإدماج وجبر الضرر
 
 تحتاج الاستجابة إلى أكثر من إنقاذ الضحية من موقع الاستغلال. فقد يعود الشخص إلى دائرة الخطر إذا لم يحصل على دخل بديل أو سكن آمن أو وضع قانوني مستقر أو دعم نفسي واجتماعي. كما قد يتعرض للوصم أو التهديد أو الانتقام إذا تعاون مع التحقيق.
@@ -114,6 +106,14 @@
 تحتاج العناية الواجبة إلى تحديد المخاطر الفعلية والمحتملة، ودمج النتائج في قرارات الشراء، ومنع الضرر أو تخفيفه، وتتبع الاستجابة، والإفصاح، وإتاحة الانتصاف. ويجب أن يشارك العمال وممثلوهم في تقييم المخاطر، لأن التدقيق المعلن مسبقاً قد لا يكشف الممارسات التي تقع خارج ساعات الزيارة أو في مواقع غير مسجلة.
 
 ولا يجوز أن تتحول الشهادات والتدقيقات الاجتماعية إلى بديل عن التفتيش العام أو التنظيم النقابي أو العدالة. كما ينبغي أن تتضمن المؤشرات نتائج للعمال أنفسهم: انتظام الأجر، وحرية ترك العمل، والسلامة، وعدم حجز الوثائق، وإمكان التظلم، والتعويض عن الضرر.
+
+## مراجع الفصل
+
+- ILO, Walk Free and IOM. *Global Estimates of Modern Slavery: Forced Labour and Forced Marriage*. 2022. ISBN 978-92-2-037483-2.
+- ILO. *Profits and Poverty: The Economics of Forced Labour*. 2024.
+- ILO. Forced Labour Convention, 1930 (No. 29), and Protocol of 2014.
+- United Nations. *Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children*. 2000.
+- United Nations. *Guiding Principles on Business and Human Rights*. 2011.
 
 ## إحالات إحصائية مباشرة
 
