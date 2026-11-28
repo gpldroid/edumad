@@ -111,6 +111,8 @@
 
 ## مراجع الفصل
 
+### مراجع وإحالات أولية
+
 - McCombs, Maxwell. *Setting the Agenda: The Mass Media and Public Opinion*. 2nd ed., Polity, 2014.
 - Habermas, Jürgen. *The Structural Transformation of the Public Sphere*. 1962; English trans. 1989.
 - UNESCO. *Journalism, “Fake News” and Disinformation: Handbook for Journalism Education and Training*. 2018.
